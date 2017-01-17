@@ -100,10 +100,6 @@ NSString *const subdomainURL = @"http://192.168.1.35/af1.1/";
 #define viewselecedCity @"http://automatefirm.com/automate_new/index.php/get_details/get_city?"
 
 
-
-
-
-
 //--------------------------------------Add New Employee-----------------------------------------
 //#define uploadEmpImageUrl @"http://automatefirm.com/automate_new/index.php/staffing/add_new_employee/upload_employee_image? online"
 #define uploadEmpImageUrl @"http://192.168.1.45/work/automate_new1/index.php/staffing/add_new_employee/upload_employee_image?"

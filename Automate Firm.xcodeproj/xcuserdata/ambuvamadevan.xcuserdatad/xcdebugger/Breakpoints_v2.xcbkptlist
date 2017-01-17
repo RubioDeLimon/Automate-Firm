@@ -493,7 +493,7 @@
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "2690"
             endingLineNumber = "2690"
-            landmarkName = "-moveEmployeesToAnotherCategory:"
+            landmarkName = "-deleteCategory:"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
@@ -620,7 +620,7 @@
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "2531"
             endingLineNumber = "2531"
-            landmarkName = "-moveEmployeesToAnotherDepartment:"
+            landmarkName = "-deleteDepartment:"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
@@ -796,7 +796,7 @@
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "9361"
             endingLineNumber = "9361"
-            landmarkName = "-listingAllEmployeesForFine:"
+            landmarkName = "-listingCategoriesExpenseReimbursement:"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
@@ -860,7 +860,7 @@
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "9887"
             endingLineNumber = "9887"
-            landmarkName = "-testService:"
+            landmarkName = "-customfolderAddnewdocuments:documentsdict:"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
