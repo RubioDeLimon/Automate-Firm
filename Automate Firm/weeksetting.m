@@ -439,6 +439,8 @@
         cell.textLabel.font=[UIFont systemFontOfSize:12.0];
         cell.textLabel.text=[self.numberarray4 objectAtIndex:indexPath.row];
         
+       // NSIndexPath *selectedIndex = [self.numberarray4 indexOfObject:[]]
+        
         if (self.myownflag==0) {
             
             
@@ -1033,8 +1035,13 @@
             
             if ([myarray containsObject:self.daytext4.text])
             {
+                if (self.myownflag==1) {
+                    [self.selectedarray4 removeAllObjects];
+                    
+                    [self.selectedarray4 addObjectsFromArray:[self.mydict objectForKey:@"partialDay"]];
+                }
                 
-                NSMutableArray *partialarray=[self.mydict objectForKey:self.daytext4.text];
+                NSMutableArray *partialarray=[[self.mydict objectForKey:self.daytext4.text] mutableCopy];
                 [self.numberarray4 removeAllObjects];
                 [self.numberarray4 addObjectsFromArray:partialarray];
                 
@@ -1043,20 +1050,7 @@
              //   NSLog(@"%@",self.globalusearray);
                 
                 
-                
-                
-                if (self.myownflag==1) {
-                    [self.selectedarray4 removeAllObjects];
-                    [self.selectedarray4 addObjectsFromArray:partialarray];
-                }
-                
-
-                
-                
-                
-                     [self.numberfourthtable reloadData];
-                
-                
+                [self.numberfourthtable reloadData];
             }
             
             else
@@ -1067,16 +1061,13 @@
               
             [self.numberfourthtable reloadData];
                 
-            }
+        }
             
-            
-            
-            
-            [self.nubertext4 resignFirstResponder];
-            return NO;
+        [self.nubertext4 resignFirstResponder];
+        return NO;
     
             
-            }
+    }
     
     
     if (textField==self.beginningTime) {
@@ -1395,7 +1386,7 @@
     
     if (tableView==self.numberfourthtable) {
         
-        self.myownflag=0;
+        //self.myownflag=0;
         UITableViewCell *newCell = [tableView cellForRowAtIndexPath:indexPath];
         
        //[self.unselectedarray4 removeAllObjects];
@@ -1443,7 +1434,7 @@
         
         if (indexPath.row==0) {
             
-            self.BreakTypeText.text=[NSString stringWithFormat:@"   %@",[self.breakTypeArray objectAtIndex:indexPath.row]];
+            self.BreakTypeText.text=[NSString stringWithFormat:@"%@",[self.breakTypeArray objectAtIndex:indexPath.row]];
             self.breakBeginningTime.userInteractionEnabled=YES;
             self.breakBeginningTime.backgroundColor=[UIColor clearColor];
             self.breakDurationText.backgroundColor=[UIColor lightGrayColor];
@@ -1466,7 +1457,7 @@
         }
         else
         {
-            self.BreakTypeText.text=[NSString stringWithFormat:@" %@",[self.breakTypeArray objectAtIndex:indexPath.row]];
+            self.BreakTypeText.text=[NSString stringWithFormat:@"%@",[self.breakTypeArray objectAtIndex:indexPath.row]];
             self.breakBeginningTime.text=@"";
             self.breakBeginningTime.userInteractionEnabled=NO;
             self.breakBeginningTime.backgroundColor=[UIColor lightGrayColor];
@@ -2680,7 +2671,7 @@
             
         }
         
-        [self.mydict setObject:self.numberarray4 forKey:@"partialDay"];
+        [self.mydict setObject:[self.numberarray4 mutableCopy]forKey:@"partialDay"];
         NSLog(@"%@",self.mydict);
     }
     
@@ -2756,7 +2747,7 @@
         }
         
         
-        [self.mydict setObject:self.numberarray4 forKey:@"partialDay"];
+        [self.mydict setObject:[self.numberarray4 mutableCopy] forKey:@"partialDay"];
         NSLog(@"%@",self.mydict);
         
     }
@@ -2776,6 +2767,7 @@
     }
     
     NSLog(@"%@",self.offdayfourthString);
+   
     
 }
 
@@ -2810,7 +2802,7 @@
     NSString *prettyVersion = [dateFormat stringFromDate:myDate];
     NSArray *timeArray=[prettyVersion componentsSeparatedByString:@":"];
     NSString *selectedTime=[NSString stringWithFormat:@"%@Hrs %@ Mins",[timeArray objectAtIndex:0],[timeArray objectAtIndex:1]];
-    
+    self.breakdurationString = [NSString stringWithFormat:@"%@:%@ ",[[timeArray objectAtIndex:0] stringByTrimmingCharactersInSet:                                                                    [NSCharacterSet whitespaceCharacterSet]],[timeArray objectAtIndex:1]];
     self.breakDurationText.text=selectedTime;
     
     self.donebutton.enabled=YES;
@@ -2863,7 +2855,7 @@
         self.endingTime.text=prettyVersion;
         
         self.BreakTypeText.userInteractionEnabled=TRUE;
-        self.BreakTypeText.text= @"   Fixed Break";
+        self.BreakTypeText.text= @"Fixed Break";
         self.BreakTypeText.backgroundColor=[UIColor clearColor];
         self.breakBeginningTime.userInteractionEnabled=TRUE;
         self.breakBeginningTime.backgroundColor=[UIColor clearColor];
@@ -3332,18 +3324,19 @@ replacementString:(NSString *)string
     if ([[weekRuleList objectAtIndex:0]objectForKey:@"break_type"]!=(id)[NSNull null]) {
         
         self.BreakTypeText.text=[[weekRuleList objectAtIndex:0]objectForKey:@"break_type"];
-        if([[[weekRuleList objectAtIndex:0]objectForKey:@"break_type"] isEqualToString:@"   Fixed Break"])
+        if([[[weekRuleList objectAtIndex:0]objectForKey:@"break_type"] isEqualToString:@"Fixed Break"])
         {
-        self.breakBeginningTime.backgroundColor=[UIColor clearColor];
-        self.breakEndingTime.backgroundColor=[UIColor clearColor];
+            self.breakBeginningTime.backgroundColor=[UIColor clearColor];
+            self.breakEndingTime.backgroundColor=[UIColor clearColor];
+            self.breakDurationText.backgroundColor=[UIColor lightGrayColor];
+            self.breakDurationText.userInteractionEnabled=NO;
         }
         else
         {
+            self.breakDurationText.backgroundColor=[UIColor clearColor];
+            self.breakDurationText.userInteractionEnabled=YES;
             self.breakBeginningTime.userInteractionEnabled=NO;
             self.breakEndingTime.userInteractionEnabled=NO;
-            
-
-            
         }
         
     }
@@ -3361,11 +3354,10 @@ replacementString:(NSString *)string
         self.BreakTypeText.backgroundColor=[UIColor clearColor];
         self.breakBeginningTime.textColor=[UIColor blackColor];
                 self.BreakTypeText.userInteractionEnabled=YES;
-        if([[[weekRuleList objectAtIndex:0]objectForKey:@"break_type"] isEqualToString:@"   Fixed Break"])
+        if([[[weekRuleList objectAtIndex:0]objectForKey:@"break_type"] isEqualToString:@"Fixed Break"])
         {
             self.breakBeginningTime.userInteractionEnabled=YES;
         }
-        
     }
     if ([[weekRuleList objectAtIndex:0]objectForKey:@"partial_duration"]!=(id)[NSNull null])
     {

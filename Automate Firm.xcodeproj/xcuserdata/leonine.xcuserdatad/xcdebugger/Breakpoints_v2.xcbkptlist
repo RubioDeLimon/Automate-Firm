@@ -10,11 +10,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/weeksetting.m"
-            timestampString = "505986119.277807"
+            timestampString = "506241781.372458"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1255"
-            endingLineNumber = "1255"
+            startingLineNumber = "1246"
+            endingLineNumber = "1246"
             landmarkName = "-textFieldShouldBeginEditing:"
             landmarkType = "7">
          </BreakpointContent>
@@ -143,7 +143,7 @@
             startingLineNumber = "503"
             endingLineNumber = "503"
             landmarkName = "-saveAction:"
-            landmarkType = "5">
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -185,11 +185,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "505994646.982117"
+            timestampString = "506248398.581112"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "5840"
-            endingLineNumber = "5840"
+            startingLineNumber = "5851"
+            endingLineNumber = "5851"
             landmarkName = "-lastdonebuttonforcreateloanservice:abbrevation:description:loanruleid:"
             landmarkType = "7">
          </BreakpointContent>
@@ -201,11 +201,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "505994646.982117"
+            timestampString = "506248398.581112"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "5740"
-            endingLineNumber = "5740"
+            startingLineNumber = "5751"
+            endingLineNumber = "5751"
             landmarkName = "-secondtimecreateloanTile:abbrevation:description:annualinterestrate:maxduration:maximumlimit:pendingloanamount:loanmonth:lastworkingday:visaduration:numberofleavedays:exceptforleave:allowbuttonstring1:allowbuttonstring2:allowbuttonstring3:swichvalue:loanruleid:loantileid:officeid:selecteddesignationstring:maindesignationdictionary:"
             landmarkType = "7">
          </BreakpointContent>
@@ -329,11 +329,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "505994646.982117"
+            timestampString = "506248398.581112"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "5863"
-            endingLineNumber = "5863"
+            startingLineNumber = "5874"
+            endingLineNumber = "5874"
             landmarkName = "-lastdonebuttonforcreateloanservice:abbrevation:description:loanruleid:"
             landmarkType = "7">
          </BreakpointContent>
@@ -345,11 +345,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "505994646.982117"
+            timestampString = "506248398.581112"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "5779"
-            endingLineNumber = "5779"
+            startingLineNumber = "5790"
+            endingLineNumber = "5790"
             landmarkName = "-secondtimecreateloanTile:abbrevation:description:annualinterestrate:maxduration:maximumlimit:pendingloanamount:loanmonth:lastworkingday:visaduration:numberofleavedays:exceptforleave:allowbuttonstring1:allowbuttonstring2:allowbuttonstring3:swichvalue:loanruleid:loantileid:officeid:selecteddesignationstring:maindesignationdictionary:"
             landmarkType = "7">
          </BreakpointContent>
@@ -361,13 +361,60 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "505994646.982117"
+            timestampString = "506248398.581112"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "5882"
-            endingLineNumber = "5882"
+            startingLineNumber = "5893"
+            endingLineNumber = "5893"
             landmarkName = "-lastdonebuttonforcreateloanservice:abbrevation:description:loanruleid:"
             landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__89-[connectionclass lastdonebuttonforcreateloanservice:abbrevation:description:loanruleid:]_block_invoke"
+                  moduleName = "Automate Firm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/leonine/Desktop/backup%2018-11-2016/Automate%20Firm/Automate%20Firm/connectionclass.m"
+                  timestampString = "506258478.92466"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "5893"
+                  endingLineNumber = "5893"
+                  offsetFromSymbolStart = "1460">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__copy_helper_block_.1249"
+                  moduleName = "Automate Firm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/leonine/Desktop/backup%2018-11-2016/Automate%20Firm/Automate%20Firm/connectionclass.m"
+                  timestampString = "506258478.928972"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "5893"
+                  endingLineNumber = "5893"
+                  offsetFromSymbolStart = "51">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__destroy_helper_block_.1250"
+                  moduleName = "Automate Firm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/leonine/Desktop/backup%2018-11-2016/Automate%20Firm/Automate%20Firm/connectionclass.m"
+                  timestampString = "506258478.931351"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "5893"
+                  endingLineNumber = "5893"
+                  offsetFromSymbolStart = "29">
+               </Location>
+            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -377,11 +424,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "505994646.982117"
+            timestampString = "506248398.581112"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "5907"
-            endingLineNumber = "5907"
+            startingLineNumber = "5918"
+            endingLineNumber = "5918"
             landmarkName = "-viewAllloanRules:"
             landmarkType = "7">
          </BreakpointContent>
@@ -393,11 +440,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "505994646.982117"
+            timestampString = "506248398.581112"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "5811"
-            endingLineNumber = "5811"
+            startingLineNumber = "5822"
+            endingLineNumber = "5822"
             landmarkName = "-lastdonebuttonforcreateloanservice:abbrevation:description:loanruleid:"
             landmarkType = "7">
          </BreakpointContent>
@@ -409,11 +456,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "505994646.982117"
+            timestampString = "506248398.581112"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "5942"
-            endingLineNumber = "5942"
+            startingLineNumber = "5953"
+            endingLineNumber = "5953"
             landmarkName = "-deleteloanTileid:officeid:loanruleid:"
             landmarkType = "7">
          </BreakpointContent>
@@ -425,11 +472,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "505994646.982117"
+            timestampString = "506248398.581112"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "5892"
-            endingLineNumber = "5892"
+            startingLineNumber = "5903"
+            endingLineNumber = "5903"
             landmarkName = "-viewAllloanRules:"
             landmarkType = "7">
          </BreakpointContent>
@@ -441,11 +488,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "505994646.982117"
+            timestampString = "506248398.581112"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "4146"
-            endingLineNumber = "4146"
+            startingLineNumber = "4157"
+            endingLineNumber = "4157"
             landmarkName = "-SubserviceForCreation:departmentId:categoryId:officeId:flagString:fromString:toString:duration:payment:workingPremise:departmentName:categrystring:firstPartDetails:catgryText:"
             landmarkType = "7">
          </BreakpointContent>
@@ -581,15 +628,15 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            shouldBeEnabled = "No"
+            shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/weeksetting.m"
-            timestampString = "505986119.277807"
+            timestampString = "506241781.372458"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "3279"
-            endingLineNumber = "3279"
+            startingLineNumber = "3271"
+            endingLineNumber = "3271"
             landmarkName = "-individualWeekruleViewResponse:"
             landmarkType = "7">
          </BreakpointContent>
@@ -697,11 +744,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "505994646.982117"
+            timestampString = "506248398.581112"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "7014"
-            endingLineNumber = "7014"
+            startingLineNumber = "7025"
+            endingLineNumber = "7025"
             landmarkName = "-individualPayruleView:officeid:"
             landmarkType = "7">
          </BreakpointContent>
@@ -713,11 +760,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "505994646.982117"
+            timestampString = "506248398.581112"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "4165"
-            endingLineNumber = "4165"
+            startingLineNumber = "4176"
+            endingLineNumber = "4176"
             landmarkName = "-SubserviceForCreation:departmentId:categoryId:officeId:flagString:fromString:toString:duration:payment:workingPremise:departmentName:categrystring:firstPartDetails:catgryText:"
             landmarkType = "7">
          </BreakpointContent>
@@ -793,11 +840,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "505994646.982117"
+            timestampString = "506248398.581112"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "6585"
-            endingLineNumber = "6585"
+            startingLineNumber = "6596"
+            endingLineNumber = "6596"
             landmarkName = "-viewAdvanceRuleConditions:"
             landmarkType = "7">
          </BreakpointContent>
@@ -809,60 +856,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "505994646.982117"
+            timestampString = "506248398.581112"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "6318"
-            endingLineNumber = "6318"
+            startingLineNumber = "6329"
+            endingLineNumber = "6329"
             landmarkName = "-loanindividualtileservices:tileid:"
             landmarkType = "7">
-            <Locations>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "__53-[connectionclass loanindividualtileservices:tileid:]_block_invoke"
-                  moduleName = "Automate Firm"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/leonine/Desktop/backup%2018-11-2016/Automate%20Firm/Automate%20Firm/connectionclass.m"
-                  timestampString = "505994949.293806"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "6320"
-                  endingLineNumber = "6320"
-                  offsetFromSymbolStart = "792">
-               </Location>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "__copy_helper_block_.1287"
-                  moduleName = "Automate Firm"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/leonine/Desktop/backup%2018-11-2016/Automate%20Firm/Automate%20Firm/connectionclass.m"
-                  timestampString = "505994949.295919"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "6320"
-                  endingLineNumber = "6320"
-                  offsetFromSymbolStart = "51">
-               </Location>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "__destroy_helper_block_.1288"
-                  moduleName = "Automate Firm"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/leonine/Desktop/backup%2018-11-2016/Automate%20Firm/Automate%20Firm/connectionclass.m"
-                  timestampString = "505994949.297728"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "6320"
-                  endingLineNumber = "6320"
-                  offsetFromSymbolStart = "29">
-               </Location>
-            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -872,11 +872,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "505994646.982117"
+            timestampString = "506248398.581112"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "6251"
-            endingLineNumber = "6251"
+            startingLineNumber = "6262"
+            endingLineNumber = "6262"
             landmarkName = "-deletethemainloanRules:"
             landmarkType = "7">
          </BreakpointContent>
@@ -888,11 +888,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "505994646.982117"
+            timestampString = "506248398.581112"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "6257"
-            endingLineNumber = "6257"
+            startingLineNumber = "6268"
+            endingLineNumber = "6268"
             landmarkName = "-deletethemainloanRules:"
             landmarkType = "7">
          </BreakpointContent>
@@ -1032,11 +1032,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "505994646.982117"
+            timestampString = "505995749.201814"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "3586"
-            endingLineNumber = "3586"
+            startingLineNumber = "3584"
+            endingLineNumber = "3584"
             landmarkName = "-updateProfilePic::"
             landmarkType = "7">
          </BreakpointContent>
@@ -1144,7 +1144,7 @@
                   moduleName = "Automate Firm"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/leonine/Desktop/backup%2018-11-2016/Automate%20Firm/Automate%20Firm/earningsAccordianview.m"
-                  timestampString = "505994949.351733"
+                  timestampString = "506258479.060889"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "697"
@@ -1159,7 +1159,7 @@
                   moduleName = "Automate Firm"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/leonine/Desktop/backup%2018-11-2016/Automate%20Firm/Automate%20Firm/earningsAccordianview.m"
-                  timestampString = "505994949.353636"
+                  timestampString = "506258479.063559"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "698"
@@ -1176,11 +1176,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "505994646.982117"
+            timestampString = "506248398.581112"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "4179"
-            endingLineNumber = "4179"
+            startingLineNumber = "4190"
+            endingLineNumber = "4190"
             landmarkName = "-SubserviceForCreation:departmentId:categoryId:officeId:flagString:fromString:toString:duration:payment:workingPremise:departmentName:categrystring:firstPartDetails:catgryText:"
             landmarkType = "7">
          </BreakpointContent>
@@ -1240,11 +1240,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "505994646.982117"
+            timestampString = "506248398.581112"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "7424"
-            endingLineNumber = "7424"
+            startingLineNumber = "7435"
+            endingLineNumber = "7435"
             landmarkName = "-saveExpenseCondition:"
             landmarkType = "7">
          </BreakpointContent>
@@ -1288,7 +1288,7 @@
                   moduleName = "Automate Firm"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/leonine/Desktop/backup%2018-11-2016/Automate%20Firm/Automate%20Firm/deductionsViewClass.m"
-                  timestampString = "505994949.375827"
+                  timestampString = "506258479.089205"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "325"
@@ -1303,7 +1303,7 @@
                   moduleName = "Automate Firm"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/leonine/Desktop/backup%2018-11-2016/Automate%20Firm/Automate%20Firm/deductionsViewClass.m"
-                  timestampString = "505994949.377837"
+                  timestampString = "506258479.09172"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "325"
@@ -1318,7 +1318,7 @@
                   moduleName = "Automate Firm"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/leonine/Desktop/backup%2018-11-2016/Automate%20Firm/Automate%20Firm/deductionsViewClass.m"
-                  timestampString = "505994949.379936"
+                  timestampString = "506258479.095823"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "325"
@@ -1383,7 +1383,7 @@
                   moduleName = "Automate Firm"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/leonine/Desktop/backup%2018-11-2016/Automate%20Firm/Automate%20Firm/deductionsTileClass.m"
-                  timestampString = "505994949.390566"
+                  timestampString = "506258479.108497"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "679"
@@ -1398,7 +1398,7 @@
                   moduleName = "Automate Firm"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/leonine/Desktop/backup%2018-11-2016/Automate%20Firm/Automate%20Firm/deductionsTileClass.m"
-                  timestampString = "505994949.39219"
+                  timestampString = "506258479.111909"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "679"
@@ -1463,7 +1463,7 @@
                   moduleName = "Automate Firm"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/leonine/Desktop/backup%2018-11-2016/Automate%20Firm/Automate%20Firm/deductionsViewClass.m"
-                  timestampString = "505994949.403688"
+                  timestampString = "506258479.122929"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "89"
@@ -1478,7 +1478,7 @@
                   moduleName = "Automate Firm"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/leonine/Desktop/backup%2018-11-2016/Automate%20Firm/Automate%20Firm/deductionsViewClass.m"
-                  timestampString = "505994949.405334"
+                  timestampString = "506258479.124585"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "89"
@@ -1527,7 +1527,7 @@
                   moduleName = "Automate Firm"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/leonine/Desktop/backup%2018-11-2016/Automate%20Firm/Automate%20Firm/earningsview.m"
-                  timestampString = "505994949.412356"
+                  timestampString = "506258479.132974"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "421"
@@ -1542,7 +1542,7 @@
                   moduleName = "Automate Firm"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/leonine/Desktop/backup%2018-11-2016/Automate%20Firm/Automate%20Firm/earningsview.m"
-                  timestampString = "505994949.414063"
+                  timestampString = "506258479.134676"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "421"
@@ -1557,7 +1557,7 @@
                   moduleName = "Automate Firm"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/leonine/Desktop/backup%2018-11-2016/Automate%20Firm/Automate%20Firm/earningsview.m"
-                  timestampString = "505994949.415697"
+                  timestampString = "506258479.136446"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "421"
@@ -1574,45 +1574,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "505994646.982117"
+            timestampString = "506248398.581112"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "4191"
-            endingLineNumber = "4191"
+            startingLineNumber = "4202"
+            endingLineNumber = "4202"
             landmarkName = "-SubserviceForCreation:departmentId:categoryId:officeId:flagString:fromString:toString:duration:payment:workingPremise:departmentName:categrystring:firstPartDetails:catgryText:"
             landmarkType = "7">
-            <Locations>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "-[connectionclass SubserviceForCreation:departmentId:categoryId:officeId:flagString:fromString:toString:duration:payment:workingPremise:departmentName:categrystring:firstPartDetails:catgryText:]"
-                  moduleName = "Automate Firm"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/leonine/Desktop/backup%2018-11-2016/Automate%20Firm/Automate%20Firm/connectionclass.m"
-                  timestampString = "505994949.419526"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "4193"
-                  endingLineNumber = "4193"
-                  offsetFromSymbolStart = "2351">
-               </Location>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "__194-[connectionclass SubserviceForCreation:departmentId:categoryId:officeId:flagString:fromString:toString:duration:payment:workingPremise:departmentName:categrystring:firstPartDetails:catgryText:]_block_invoke"
-                  moduleName = "Automate Firm"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/leonine/Desktop/backup%2018-11-2016/Automate%20Firm/Automate%20Firm/connectionclass.m"
-                  timestampString = "505994949.421692"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "4197"
-                  endingLineNumber = "4197"
-                  offsetFromSymbolStart = "109">
-               </Location>
-            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -1638,11 +1606,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "505994646.982117"
+            timestampString = "506248398.581112"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "7575"
-            endingLineNumber = "7575"
+            startingLineNumber = "7586"
+            endingLineNumber = "7586"
             landmarkName = "-deleteExpenseCondition:"
             landmarkType = "7">
          </BreakpointContent>
@@ -1654,11 +1622,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "505994646.982117"
+            timestampString = "506248398.581112"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "7287"
-            endingLineNumber = "7287"
+            startingLineNumber = "7298"
+            endingLineNumber = "7298"
             landmarkName = "-viewAllExpenseRule:"
             landmarkType = "7">
          </BreakpointContent>
@@ -1670,11 +1638,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "505994646.982117"
+            timestampString = "506248398.581112"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "7245"
-            endingLineNumber = "7245"
+            startingLineNumber = "7256"
+            endingLineNumber = "7256"
             landmarkName = "-deleteDocument:officeId:docTypeId:"
             landmarkType = "7">
          </BreakpointContent>
@@ -1686,11 +1654,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "505994646.982117"
+            timestampString = "506248398.581112"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "7362"
-            endingLineNumber = "7362"
+            startingLineNumber = "7373"
+            endingLineNumber = "7373"
             landmarkName = "-individualExpenseRuleView:"
             landmarkType = "7">
          </BreakpointContent>
@@ -1702,60 +1670,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "505994646.982117"
+            timestampString = "506248398.581112"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "7385"
-            endingLineNumber = "7385"
+            startingLineNumber = "7396"
+            endingLineNumber = "7396"
             landmarkName = "-individualExpenseRuleView:"
             landmarkType = "7">
-            <Locations>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "__45-[connectionclass individualExpenseRuleView:]_block_invoke"
-                  moduleName = "Automate Firm"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/leonine/Desktop/backup%2018-11-2016/Automate%20Firm/Automate%20Firm/connectionclass.m"
-                  timestampString = "505994949.444951"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "7387"
-                  endingLineNumber = "7387"
-                  offsetFromSymbolStart = "865">
-               </Location>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "__copy_helper_block_.1453"
-                  moduleName = "Automate Firm"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/leonine/Desktop/backup%2018-11-2016/Automate%20Firm/Automate%20Firm/connectionclass.m"
-                  timestampString = "505994949.44704"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "7387"
-                  endingLineNumber = "7387"
-                  offsetFromSymbolStart = "51">
-               </Location>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "__destroy_helper_block_.1454"
-                  moduleName = "Automate Firm"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/leonine/Desktop/backup%2018-11-2016/Automate%20Firm/Automate%20Firm/connectionclass.m"
-                  timestampString = "505994949.4487"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "7387"
-                  endingLineNumber = "7387"
-                  offsetFromSymbolStart = "29">
-               </Location>
-            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -1877,60 +1798,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "505994646.982117"
+            timestampString = "506248398.581112"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "7451"
-            endingLineNumber = "7451"
+            startingLineNumber = "7462"
+            endingLineNumber = "7462"
             landmarkName = "-saveExpenseCondition:"
             landmarkType = "7">
-            <Locations>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "__40-[connectionclass saveExpenseCondition:]_block_invoke"
-                  moduleName = "Automate Firm"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/leonine/Desktop/backup%2018-11-2016/Automate%20Firm/Automate%20Firm/connectionclass.m"
-                  timestampString = "505994949.471995"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "7452"
-                  endingLineNumber = "7452"
-                  offsetFromSymbolStart = "1679">
-               </Location>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "__copy_helper_block_.1458"
-                  moduleName = "Automate Firm"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/leonine/Desktop/backup%2018-11-2016/Automate%20Firm/Automate%20Firm/connectionclass.m"
-                  timestampString = "505994949.473647"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "7452"
-                  endingLineNumber = "7452"
-                  offsetFromSymbolStart = "51">
-               </Location>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "__destroy_helper_block_.1459"
-                  moduleName = "Automate Firm"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/leonine/Desktop/backup%2018-11-2016/Automate%20Firm/Automate%20Firm/connectionclass.m"
-                  timestampString = "505994949.475285"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "7452"
-                  endingLineNumber = "7452"
-                  offsetFromSymbolStart = "29">
-               </Location>
-            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -1940,11 +1814,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "505994646.982117"
+            timestampString = "506248398.581112"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "7471"
-            endingLineNumber = "7471"
+            startingLineNumber = "7482"
+            endingLineNumber = "7482"
             landmarkName = "-viewExpenseConditionView::"
             landmarkType = "7">
          </BreakpointContent>
@@ -2004,11 +1878,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "505994646.982117"
+            timestampString = "506248398.581112"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "4279"
-            endingLineNumber = "4279"
+            startingLineNumber = "4290"
+            endingLineNumber = "4290"
             landmarkName = "-SecondCategoryDoneServiceFunction:departmentId:categoryId:officeId:flagString:fromString:toString:duration:payment:workingPremise:departmentName:categrystring:catgryText:ruleId:CatgryTileId:"
             landmarkType = "7">
          </BreakpointContent>
@@ -2020,11 +1894,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "505994646.982117"
+            timestampString = "506248398.581112"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "4320"
-            endingLineNumber = "4320"
+            startingLineNumber = "4331"
+            endingLineNumber = "4331"
             landmarkName = "-SecondCategoryDoneServiceFunction:departmentId:categoryId:officeId:flagString:fromString:toString:duration:payment:workingPremise:departmentName:categrystring:catgryText:ruleId:CatgryTileId:"
             landmarkType = "7">
          </BreakpointContent>
@@ -2036,11 +1910,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "505994646.982117"
+            timestampString = "506248398.581112"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "4443"
-            endingLineNumber = "4443"
+            startingLineNumber = "4454"
+            endingLineNumber = "4454"
             landmarkName = "-createMainDoneHolidayService:othrDetails:officeid:ruleid:"
             landmarkType = "7">
          </BreakpointContent>
@@ -2052,57 +1926,105 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "505994646.982117"
+            timestampString = "506248398.581112"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "4519"
-            endingLineNumber = "4519"
+            startingLineNumber = "4530"
+            endingLineNumber = "4530"
             landmarkName = "-seconddisplayServiceForDeptcatfryOffice:officeid:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Automate Firm/connectionclass.m"
+            timestampString = "506248398.581112"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "4600"
+            endingLineNumber = "4600"
+            landmarkName = "-individualHolidayDetails:ruleId:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Automate Firm/connectionclass.m"
+            timestampString = "506248398.581112"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "4637"
+            endingLineNumber = "4637"
+            landmarkName = "-deleteHoliday:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Automate Firm/connectionclass.m"
+            timestampString = "506248398.581112"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "4252"
+            endingLineNumber = "4252"
+            landmarkName = "-SubserviceForCreation:departmentId:categoryId:officeId:flagString:fromString:toString:duration:payment:workingPremise:departmentName:categrystring:firstPartDetails:catgryText:"
             landmarkType = "7">
             <Locations>
                <Location
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
-                  symbolName = "__68-[connectionclass seconddisplayServiceForDeptcatfryOffice:officeid:]_block_invoke"
+                  symbolName = "__194-[connectionclass SubserviceForCreation:departmentId:categoryId:officeId:flagString:fromString:toString:duration:payment:workingPremise:departmentName:categrystring:firstPartDetails:catgryText:]_block_invoke"
                   moduleName = "Automate Firm"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/leonine/Desktop/backup%2018-11-2016/Automate%20Firm/Automate%20Firm/connectionclass.m"
-                  timestampString = "505994949.501754"
+                  timestampString = "506258479.221248"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "4519"
-                  endingLineNumber = "4519"
-                  offsetFromSymbolStart = "768">
+                  startingLineNumber = "4252"
+                  endingLineNumber = "4252"
+                  offsetFromSymbolStart = "1112">
                </Location>
                <Location
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
-                  symbolName = "__copy_helper_block_.1017"
+                  symbolName = "__copy_helper_block_.994"
                   moduleName = "Automate Firm"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/leonine/Desktop/backup%2018-11-2016/Automate%20Firm/Automate%20Firm/connectionclass.m"
-                  timestampString = "505994949.503612"
+                  timestampString = "506258479.222895"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "4519"
-                  endingLineNumber = "4519"
+                  startingLineNumber = "4252"
+                  endingLineNumber = "4252"
                   offsetFromSymbolStart = "51">
                </Location>
                <Location
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
-                  symbolName = "__destroy_helper_block_.1018"
+                  symbolName = "__destroy_helper_block_.995"
                   moduleName = "Automate Firm"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/leonine/Desktop/backup%2018-11-2016/Automate%20Firm/Automate%20Firm/connectionclass.m"
-                  timestampString = "505994949.505462"
+                  timestampString = "506258479.22455"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "4519"
-                  endingLineNumber = "4519"
+                  startingLineNumber = "4252"
+                  endingLineNumber = "4252"
                   offsetFromSymbolStart = "29">
                </Location>
             </Locations>
@@ -2115,61 +2037,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "505994646.982117"
+            timestampString = "506248398.581112"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "4589"
-            endingLineNumber = "4589"
-            landmarkName = "-individualHolidayDetails:ruleId:"
+            startingLineNumber = "4487"
+            endingLineNumber = "4487"
+            landmarkName = "-createMainDoneHolidayService:othrDetails:officeid:ruleid:"
             landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "Automate Firm/connectionclass.m"
-            timestampString = "505994646.982117"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "4626"
-            endingLineNumber = "4626"
-            landmarkName = "-deleteHoliday:"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "Automate Firm/connectionclass.m"
-            timestampString = "505994646.982117"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "4241"
-            endingLineNumber = "4241"
-            landmarkName = "-SubserviceForCreation:departmentId:categoryId:officeId:flagString:fromString:toString:duration:payment:workingPremise:departmentName:categrystring:firstPartDetails:catgryText:"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "Automate Firm/connectionclass.m"
-            timestampString = "505994646.982117"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "4476"
-            endingLineNumber = "4476"
-            landmarkName = "@implementation connectionclass"
-            landmarkType = "3">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -2195,11 +2069,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "505994646.982117"
+            timestampString = "506248398.581112"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "4103"
-            endingLineNumber = "4103"
+            startingLineNumber = "4114"
+            endingLineNumber = "4114"
             landmarkName = "-firstServiceForHolidyWorkingpremiseDeprtmntsAndCategory:"
             landmarkType = "7">
          </BreakpointContent>
@@ -2243,13 +2117,60 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "505994646.982117"
+            timestampString = "506248398.581112"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "4121"
-            endingLineNumber = "4121"
+            startingLineNumber = "4132"
+            endingLineNumber = "4132"
             landmarkName = "-firstServiceForHolidyWorkingpremiseDeprtmntsAndCategory:"
             landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__75-[connectionclass firstServiceForHolidyWorkingpremiseDeprtmntsAndCategory:]_block_invoke"
+                  moduleName = "Automate Firm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/leonine/Desktop/backup%2018-11-2016/Automate%20Firm/Automate%20Firm/connectionclass.m"
+                  timestampString = "506258479.236307"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "4134"
+                  endingLineNumber = "4134"
+                  offsetFromSymbolStart = "768">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__copy_helper_block_.955"
+                  moduleName = "Automate Firm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/leonine/Desktop/backup%2018-11-2016/Automate%20Firm/Automate%20Firm/connectionclass.m"
+                  timestampString = "506258479.23802"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "4134"
+                  endingLineNumber = "4134"
+                  offsetFromSymbolStart = "51">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__destroy_helper_block_.956"
+                  moduleName = "Automate Firm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/leonine/Desktop/backup%2018-11-2016/Automate%20Firm/Automate%20Firm/connectionclass.m"
+                  timestampString = "506258479.239886"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "4134"
+                  endingLineNumber = "4134"
+                  offsetFromSymbolStart = "29">
+               </Location>
+            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -2323,11 +2244,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "505994646.982117"
+            timestampString = "506248398.581112"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "8519"
-            endingLineNumber = "8519"
+            startingLineNumber = "8530"
+            endingLineNumber = "8530"
             landmarkName = "-createNewOvertime:"
             landmarkType = "7">
          </BreakpointContent>
@@ -2339,11 +2260,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "505994646.982117"
+            timestampString = "506248398.581112"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "8550"
-            endingLineNumber = "8550"
+            startingLineNumber = "8561"
+            endingLineNumber = "8561"
             landmarkName = "-updateOvertimeRule:"
             landmarkType = "7">
          </BreakpointContent>
@@ -2355,11 +2276,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "505994646.982117"
+            timestampString = "505995749.201814"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "2676"
-            endingLineNumber = "2676"
+            startingLineNumber = "2674"
+            endingLineNumber = "2674"
             landmarkName = "-deleteCategory:"
             landmarkType = "7">
          </BreakpointContent>
@@ -2371,11 +2292,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "505994646.982117"
+            timestampString = "505995749.201814"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "2723"
-            endingLineNumber = "2723"
+            startingLineNumber = "2721"
+            endingLineNumber = "2721"
             landmarkName = "-moveEmployeesToAnotherCategory:"
             landmarkType = "7">
          </BreakpointContent>
@@ -2387,11 +2308,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "505994646.982117"
+            timestampString = "505995749.201814"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "2866"
-            endingLineNumber = "2866"
+            startingLineNumber = "2864"
+            endingLineNumber = "2864"
             landmarkName = "-StoreViewDetails:"
             landmarkType = "7">
          </BreakpointContent>
@@ -2403,11 +2324,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "505994646.982117"
+            timestampString = "505995749.201814"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "2834"
-            endingLineNumber = "2834"
+            startingLineNumber = "2832"
+            endingLineNumber = "2832"
             landmarkName = "-OfficeStoreView:"
             landmarkType = "7">
          </BreakpointContent>
@@ -2435,7 +2356,7 @@
                   moduleName = "Automate Firm"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/leonine/Desktop/backup%2018-11-2016/Automate%20Firm/Automate%20Firm/addnewemployee1Class.m"
-                  timestampString = "505994949.552411"
+                  timestampString = "506258479.271026"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "1571"
@@ -2450,7 +2371,7 @@
                   moduleName = "Automate Firm"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/leonine/Desktop/backup%2018-11-2016/Automate%20Firm/Automate%20Firm/addnewemployee1Class.m"
-                  timestampString = "505994949.55411"
+                  timestampString = "506258479.272684"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "1573"
@@ -2499,7 +2420,7 @@
                   moduleName = "Automate Firm"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/leonine/Desktop/backup%2018-11-2016/Automate%20Firm/Automate%20Firm/addnewemployee2Class.m"
-                  timestampString = "505994949.56056"
+                  timestampString = "506258479.280302"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "904"
@@ -2514,7 +2435,7 @@
                   moduleName = "Automate Firm"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/leonine/Desktop/backup%2018-11-2016/Automate%20Firm/Automate%20Firm/addnewemployee2Class.m"
-                  timestampString = "505994949.56338"
+                  timestampString = "506258479.281978"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "904"
@@ -2529,7 +2450,7 @@
                   moduleName = "Automate Firm"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/leonine/Desktop/backup%2018-11-2016/Automate%20Firm/Automate%20Firm/addnewemployee2Class.m"
-                  timestampString = "505994949.565567"
+                  timestampString = "506258479.283609"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "904"
@@ -2546,11 +2467,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "505994646.982117"
+            timestampString = "505995749.201814"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "3312"
-            endingLineNumber = "3312"
+            startingLineNumber = "3310"
+            endingLineNumber = "3310"
             landmarkName = "-listRuleAccordingtoDesignation:"
             landmarkType = "7">
          </BreakpointContent>
@@ -2594,11 +2515,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "505994646.982117"
+            timestampString = "505995749.201814"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "2812"
-            endingLineNumber = "2812"
+            startingLineNumber = "2810"
+            endingLineNumber = "2810"
             landmarkName = "-OfficeStoreView:"
             landmarkType = "7">
             <Locations>
@@ -2610,11 +2531,11 @@
                   moduleName = "Automate Firm"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/leonine/Desktop/backup%2018-11-2016/Automate%20Firm/Automate%20Firm/connectionclass.m"
-                  timestampString = "505994949.580193"
+                  timestampString = "506258479.29798"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "2812"
-                  endingLineNumber = "2812"
+                  startingLineNumber = "2810"
+                  endingLineNumber = "2810"
                   offsetFromSymbolStart = "50">
                </Location>
                <Location
@@ -2625,11 +2546,11 @@
                   moduleName = "Automate Firm"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/leonine/Desktop/backup%2018-11-2016/Automate%20Firm/Automate%20Firm/connectionclass.m"
-                  timestampString = "505994949.582006"
+                  timestampString = "506258479.299863"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "2812"
-                  endingLineNumber = "2812"
+                  startingLineNumber = "2810"
+                  endingLineNumber = "2810"
                   offsetFromSymbolStart = "15">
                </Location>
             </Locations>
@@ -2642,11 +2563,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "505994646.982117"
+            timestampString = "505995749.201814"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1995"
-            endingLineNumber = "1995"
+            startingLineNumber = "1993"
+            endingLineNumber = "1993"
             landmarkName = "-updateBank:::::::::::::"
             landmarkType = "7">
          </BreakpointContent>
@@ -2658,11 +2579,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "505994646.982117"
+            timestampString = "505995749.201814"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "2263"
-            endingLineNumber = "2263"
+            startingLineNumber = "2261"
+            endingLineNumber = "2261"
             landmarkName = "-displayNationality"
             landmarkType = "7">
             <Locations>
@@ -2674,11 +2595,11 @@
                   moduleName = "Automate Firm"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/leonine/Desktop/backup%2018-11-2016/Automate%20Firm/Automate%20Firm/connectionclass.m"
-                  timestampString = "505994949.588777"
+                  timestampString = "506258479.306723"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "2265"
-                  endingLineNumber = "2265"
+                  startingLineNumber = "2263"
+                  endingLineNumber = "2263"
                   offsetFromSymbolStart = "768">
                </Location>
                <Location
@@ -2689,11 +2610,11 @@
                   moduleName = "Automate Firm"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/leonine/Desktop/backup%2018-11-2016/Automate%20Firm/Automate%20Firm/connectionclass.m"
-                  timestampString = "505994949.590432"
+                  timestampString = "506258479.308526"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "2265"
-                  endingLineNumber = "2265"
+                  startingLineNumber = "2263"
+                  endingLineNumber = "2263"
                   offsetFromSymbolStart = "51">
                </Location>
                <Location
@@ -2704,11 +2625,11 @@
                   moduleName = "Automate Firm"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/leonine/Desktop/backup%2018-11-2016/Automate%20Firm/Automate%20Firm/connectionclass.m"
-                  timestampString = "505994949.592093"
+                  timestampString = "506258479.31021"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "2265"
-                  endingLineNumber = "2265"
+                  startingLineNumber = "2263"
+                  endingLineNumber = "2263"
                   offsetFromSymbolStart = "29">
                </Location>
             </Locations>
@@ -2721,11 +2642,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "505994646.982117"
+            timestampString = "505995749.201814"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "2335"
-            endingLineNumber = "2335"
+            startingLineNumber = "2333"
+            endingLineNumber = "2333"
             landmarkName = "-displayAllCities:"
             landmarkType = "7">
          </BreakpointContent>
@@ -2737,11 +2658,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "505994646.982117"
+            timestampString = "505995749.201814"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "2400"
-            endingLineNumber = "2400"
+            startingLineNumber = "2398"
+            endingLineNumber = "2398"
             landmarkName = "-Editofficefunction:"
             landmarkType = "7">
          </BreakpointContent>
@@ -2753,11 +2674,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "505994646.982117"
+            timestampString = "505995749.201814"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "2417"
-            endingLineNumber = "2417"
+            startingLineNumber = "2415"
+            endingLineNumber = "2415"
             landmarkName = "-Editofficefunction:"
             landmarkType = "7">
          </BreakpointContent>
@@ -2769,11 +2690,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "505994646.982117"
+            timestampString = "505995749.201814"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "2475"
-            endingLineNumber = "2475"
+            startingLineNumber = "2473"
+            endingLineNumber = "2473"
             landmarkName = "-createorupdateDepartment:"
             landmarkType = "7">
          </BreakpointContent>
@@ -2785,11 +2706,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "505994646.982117"
+            timestampString = "505995749.201814"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "2503"
-            endingLineNumber = "2503"
+            startingLineNumber = "2501"
+            endingLineNumber = "2501"
             landmarkName = "-createorupdateDepartment:"
             landmarkType = "7">
          </BreakpointContent>
@@ -2801,11 +2722,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "505994646.982117"
+            timestampString = "505995749.201814"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "2533"
-            endingLineNumber = "2533"
+            startingLineNumber = "2531"
+            endingLineNumber = "2531"
             landmarkName = "-deleteDepartment:"
             landmarkType = "7">
          </BreakpointContent>
@@ -2865,11 +2786,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "505994646.982117"
+            timestampString = "506248398.581112"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "6188"
-            endingLineNumber = "6188"
+            startingLineNumber = "6199"
+            endingLineNumber = "6199"
             landmarkName = "-updationofloanTile:abbrevation:description:annualinterestrate:maxduration:maximumlimit:pendingloanamount:loanmonth:lastworkingday:visaduration:numberofleavedays:exceptforleave:allowbuttonstring1:allowbuttonstring2:allowbuttonstring3:swichvalue:loanruleid:loantileid:officeid:selecteddesignationstring:maindesignationdictionary:clickdesignationflag:"
             landmarkType = "7">
          </BreakpointContent>
@@ -3137,11 +3058,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "505994646.982117"
+            timestampString = "505995749.201814"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1852"
-            endingLineNumber = "1852"
+            startingLineNumber = "1850"
+            endingLineNumber = "1850"
             landmarkName = "-createNewBank::::::::::::"
             landmarkType = "7">
          </BreakpointContent>
@@ -3153,11 +3074,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "505994646.982117"
+            timestampString = "505995749.201814"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1870"
-            endingLineNumber = "1870"
+            startingLineNumber = "1868"
+            endingLineNumber = "1868"
             landmarkName = "-createNewBank::::::::::::"
             landmarkType = "7">
          </BreakpointContent>
@@ -3169,11 +3090,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "505994646.982117"
+            timestampString = "505995749.201814"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1898"
-            endingLineNumber = "1898"
+            startingLineNumber = "1896"
+            endingLineNumber = "1896"
             landmarkName = "-createNewBank::::::::::::"
             landmarkType = "7">
          </BreakpointContent>
@@ -3185,11 +3106,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "505994646.982117"
+            timestampString = "505995749.201814"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1933"
-            endingLineNumber = "1933"
+            startingLineNumber = "1931"
+            endingLineNumber = "1931"
             landmarkName = "-viewAllBank"
             landmarkType = "7">
          </BreakpointContent>
@@ -3201,11 +3122,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "505994646.982117"
+            timestampString = "505995749.201814"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "2296"
-            endingLineNumber = "2296"
+            startingLineNumber = "2294"
+            endingLineNumber = "2294"
             landmarkName = "-displaySelectedStates:"
             landmarkType = "7">
          </BreakpointContent>
@@ -3249,11 +3170,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "505994646.982117"
+            timestampString = "505995749.201814"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "2353"
-            endingLineNumber = "2353"
+            startingLineNumber = "2351"
+            endingLineNumber = "2351"
             landmarkName = "-getallBankList"
             landmarkType = "7">
          </BreakpointContent>
@@ -3265,11 +3186,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "505994646.982117"
+            timestampString = "505995749.201814"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "2371"
-            endingLineNumber = "2371"
+            startingLineNumber = "2369"
+            endingLineNumber = "2369"
             landmarkName = "-getallBankList"
             landmarkType = "7">
             <Locations>
@@ -3281,11 +3202,11 @@
                   moduleName = "Automate Firm"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/leonine/Desktop/backup%2018-11-2016/Automate%20Firm/Automate%20Firm/connectionclass.m"
-                  timestampString = "505994949.70711"
+                  timestampString = "506258479.431152"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "2372"
-                  endingLineNumber = "2372"
+                  startingLineNumber = "2370"
+                  endingLineNumber = "2370"
                   offsetFromSymbolStart = "478">
                </Location>
                <Location
@@ -3296,11 +3217,11 @@
                   moduleName = "Automate Firm"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/leonine/Desktop/backup%2018-11-2016/Automate%20Firm/Automate%20Firm/connectionclass.m"
-                  timestampString = "505994949.708766"
+                  timestampString = "506258479.432816"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "2372"
-                  endingLineNumber = "2372"
+                  startingLineNumber = "2370"
+                  endingLineNumber = "2370"
                   offsetFromSymbolStart = "51">
                </Location>
                <Location
@@ -3311,11 +3232,11 @@
                   moduleName = "Automate Firm"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/leonine/Desktop/backup%2018-11-2016/Automate%20Firm/Automate%20Firm/connectionclass.m"
-                  timestampString = "505994949.710373"
+                  timestampString = "506258479.434415"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "2372"
-                  endingLineNumber = "2372"
+                  startingLineNumber = "2370"
+                  endingLineNumber = "2370"
                   offsetFromSymbolStart = "29">
                </Location>
             </Locations>
@@ -3392,11 +3313,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "505994646.982117"
+            timestampString = "506248398.581112"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "8698"
-            endingLineNumber = "8698"
+            startingLineNumber = "8709"
+            endingLineNumber = "8709"
             landmarkName = "-createtax:"
             landmarkType = "7">
          </BreakpointContent>
@@ -3408,60 +3329,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "505994646.982117"
+            timestampString = "506248398.581112"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "6948"
-            endingLineNumber = "6948"
+            startingLineNumber = "6959"
+            endingLineNumber = "6959"
             landmarkName = "-updateNewpayrule:abbrevation:dessc:officeId:payruleId:selectedDesig:designationList:paymntDate:"
             landmarkType = "7">
-            <Locations>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "__114-[connectionclass updateNewpayrule:abbrevation:dessc:officeId:payruleId:selectedDesig:designationList:paymntDate:]_block_invoke"
-                  moduleName = "Automate Firm"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/leonine/Desktop/backup%2018-11-2016/Automate%20Firm/Automate%20Firm/connectionclass.m"
-                  timestampString = "505994949.731635"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "6950"
-                  endingLineNumber = "6950"
-                  offsetFromSymbolStart = "840">
-               </Location>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "__copy_helper_block_.1390"
-                  moduleName = "Automate Firm"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/leonine/Desktop/backup%2018-11-2016/Automate%20Firm/Automate%20Firm/connectionclass.m"
-                  timestampString = "505994949.733504"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "6950"
-                  endingLineNumber = "6950"
-                  offsetFromSymbolStart = "108">
-               </Location>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "__destroy_helper_block_.1391"
-                  moduleName = "Automate Firm"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/leonine/Desktop/backup%2018-11-2016/Automate%20Firm/Automate%20Firm/connectionclass.m"
-                  timestampString = "505994949.735135"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "6950"
-                  endingLineNumber = "6950"
-                  offsetFromSymbolStart = "59">
-               </Location>
-            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -3503,11 +3377,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "505993656.504186"
+            timestampString = "505995749.201814"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "539"
-            endingLineNumber = "539"
+            startingLineNumber = "537"
+            endingLineNumber = "537"
             landmarkName = "-getUserDetails:"
             landmarkType = "7">
          </BreakpointContent>
@@ -3519,11 +3393,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "505993656.504186"
+            timestampString = "505995749.201814"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "594"
-            endingLineNumber = "594"
+            startingLineNumber = "592"
+            endingLineNumber = "592"
             landmarkName = "-sendUserDetails:language:emId:"
             landmarkType = "7">
          </BreakpointContent>
@@ -3535,11 +3409,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "505993656.504186"
+            timestampString = "505995749.201814"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "579"
-            endingLineNumber = "579"
+            startingLineNumber = "577"
+            endingLineNumber = "577"
             landmarkName = "-sendUserDetails:language:emId:"
             landmarkType = "7">
          </BreakpointContent>
@@ -3551,11 +3425,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "505993656.504186"
+            timestampString = "505995749.201814"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "567"
-            endingLineNumber = "567"
+            startingLineNumber = "565"
+            endingLineNumber = "565"
             landmarkName = "-getUserDetails:"
             landmarkType = "7">
          </BreakpointContent>
@@ -3567,11 +3441,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "505994646.982117"
+            timestampString = "505995749.201814"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "3106"
-            endingLineNumber = "3106"
+            startingLineNumber = "3104"
+            endingLineNumber = "3104"
             landmarkName = "-uploadEmpImage::"
             landmarkType = "7">
          </BreakpointContent>
@@ -3595,7 +3469,7 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            shouldBeEnabled = "No"
+            shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/grouppopupviewclass.m"
@@ -3759,12 +3633,12 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "505994646.982117"
+            timestampString = "506248398.581112"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "4665"
-            endingLineNumber = "4665"
-            landmarkName = "-includeDesignationforTileViewClass::::"
+            startingLineNumber = "4676"
+            endingLineNumber = "4676"
+            landmarkName = "-deleteHoliday:"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
@@ -3951,11 +3825,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "505994646.982117"
+            timestampString = "506248398.581112"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "9850"
-            endingLineNumber = "9850"
+            startingLineNumber = "9861"
+            endingLineNumber = "9861"
             landmarkName = "-customfolderAddnewdocuments:documentsdict:"
             landmarkType = "7">
          </BreakpointContent>
@@ -3967,60 +3841,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "505994646.982117"
+            timestampString = "506248398.581112"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "9720"
-            endingLineNumber = "9720"
+            startingLineNumber = "9731"
+            endingLineNumber = "9731"
             landmarkName = "-documentationList:"
             landmarkType = "7">
-            <Locations>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "__37-[connectionclass documentationList:]_block_invoke"
-                  moduleName = "Automate Firm"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/leonine/Desktop/backup%2018-11-2016/Automate%20Firm/Automate%20Firm/connectionclass.m"
-                  timestampString = "505994949.827544"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "9721"
-                  endingLineNumber = "9721"
-                  offsetFromSymbolStart = "771">
-               </Location>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "__copy_helper_block_.1792"
-                  moduleName = "Automate Firm"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/leonine/Desktop/backup%2018-11-2016/Automate%20Firm/Automate%20Firm/connectionclass.m"
-                  timestampString = "505994949.829616"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "9721"
-                  endingLineNumber = "9721"
-                  offsetFromSymbolStart = "51">
-               </Location>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "__destroy_helper_block_.1793"
-                  moduleName = "Automate Firm"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/leonine/Desktop/backup%2018-11-2016/Automate%20Firm/Automate%20Firm/connectionclass.m"
-                  timestampString = "505994949.831947"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "9721"
-                  endingLineNumber = "9721"
-                  offsetFromSymbolStart = "29">
-               </Location>
-            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -4110,11 +3937,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "505994646.982117"
+            timestampString = "506248398.581112"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "9618"
-            endingLineNumber = "9618"
+            startingLineNumber = "9629"
+            endingLineNumber = "9629"
             landmarkName = "-individualProtocolRuleView:::"
             landmarkType = "7">
          </BreakpointContent>
@@ -4142,11 +3969,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "505994646.982117"
+            timestampString = "506248398.581112"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "9648"
-            endingLineNumber = "9648"
+            startingLineNumber = "9659"
+            endingLineNumber = "9659"
             landmarkName = "-saveIndividualLeaveProtocol:"
             landmarkType = "7">
          </BreakpointContent>
@@ -4190,11 +4017,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "505994646.982117"
+            timestampString = "506248398.581112"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "7613"
-            endingLineNumber = "7613"
+            startingLineNumber = "7624"
+            endingLineNumber = "7624"
             landmarkName = "-deleteExpenseRule:"
             landmarkType = "7">
          </BreakpointContent>
@@ -4254,11 +4081,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "505994646.982117"
+            timestampString = "505995749.201814"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1489"
-            endingLineNumber = "1489"
+            startingLineNumber = "1487"
+            endingLineNumber = "1487"
             landmarkName = "-createNewDesignations:"
             landmarkType = "7">
          </BreakpointContent>
@@ -4270,11 +4097,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "505994646.982117"
+            timestampString = "505995749.201814"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1509"
-            endingLineNumber = "1509"
+            startingLineNumber = "1507"
+            endingLineNumber = "1507"
             landmarkName = "-createNewDesignations:"
             landmarkType = "7">
          </BreakpointContent>
@@ -4286,11 +4113,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "505994646.982117"
+            timestampString = "505995749.201814"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1590"
-            endingLineNumber = "1590"
+            startingLineNumber = "1588"
+            endingLineNumber = "1588"
             landmarkName = "-individualDesignationView:"
             landmarkType = "7">
             <Locations>
@@ -4302,11 +4129,11 @@
                   moduleName = "Automate Firm"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/leonine/Desktop/backup%2018-11-2016/Automate%20Firm/Automate%20Firm/connectionclass.m"
-                  timestampString = "505994949.884773"
+                  timestampString = "506258479.609881"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "1590"
-                  endingLineNumber = "1590"
+                  startingLineNumber = "1588"
+                  endingLineNumber = "1588"
                   offsetFromSymbolStart = "160">
                </Location>
                <Location
@@ -4317,11 +4144,11 @@
                   moduleName = "Automate Firm"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/leonine/Desktop/backup%2018-11-2016/Automate%20Firm/Automate%20Firm/connectionclass.m"
-                  timestampString = "505994949.886567"
+                  timestampString = "506258479.611558"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "1593"
-                  endingLineNumber = "1593"
+                  startingLineNumber = "1591"
+                  endingLineNumber = "1591"
                   offsetFromSymbolStart = "109">
                </Location>
             </Locations>
@@ -4334,11 +4161,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "505994646.982117"
+            timestampString = "505995749.201814"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1609"
-            endingLineNumber = "1609"
+            startingLineNumber = "1607"
+            endingLineNumber = "1607"
             landmarkName = "-individualDesignationView:"
             landmarkType = "7">
          </BreakpointContent>
@@ -4350,11 +4177,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "505994646.982117"
+            timestampString = "505995749.201814"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1630"
-            endingLineNumber = "1630"
+            startingLineNumber = "1628"
+            endingLineNumber = "1628"
             landmarkName = "-deleteResponsibility:"
             landmarkType = "7">
             <Locations>
@@ -4366,11 +4193,11 @@
                   moduleName = "Automate Firm"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/leonine/Desktop/backup%2018-11-2016/Automate%20Firm/Automate%20Firm/connectionclass.m"
-                  timestampString = "505994949.893203"
+                  timestampString = "506258479.622292"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "1630"
-                  endingLineNumber = "1630"
+                  startingLineNumber = "1628"
+                  endingLineNumber = "1628"
                   offsetFromSymbolStart = "160">
                </Location>
                <Location
@@ -4381,11 +4208,11 @@
                   moduleName = "Automate Firm"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/leonine/Desktop/backup%2018-11-2016/Automate%20Firm/Automate%20Firm/connectionclass.m"
-                  timestampString = "505994949.894859"
+                  timestampString = "506258479.623998"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "1633"
-                  endingLineNumber = "1633"
+                  startingLineNumber = "1631"
+                  endingLineNumber = "1631"
                   offsetFromSymbolStart = "109">
                </Location>
             </Locations>
@@ -4398,11 +4225,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "505994646.982117"
+            timestampString = "505995749.201814"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1650"
-            endingLineNumber = "1650"
+            startingLineNumber = "1648"
+            endingLineNumber = "1648"
             landmarkName = "-deleteResponsibility:"
             landmarkType = "7">
          </BreakpointContent>
@@ -4414,11 +4241,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "505994646.982117"
+            timestampString = "505995749.201814"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1672"
-            endingLineNumber = "1672"
+            startingLineNumber = "1670"
+            endingLineNumber = "1670"
             landmarkName = "-updateDesignation:"
             landmarkType = "7">
          </BreakpointContent>
@@ -4430,11 +4257,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "505994646.982117"
+            timestampString = "505995749.201814"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1700"
-            endingLineNumber = "1700"
+            startingLineNumber = "1698"
+            endingLineNumber = "1698"
             landmarkName = "-updateDesignation:"
             landmarkType = "7">
          </BreakpointContent>
@@ -4446,11 +4273,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "505994646.982117"
+            timestampString = "505995749.201814"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1738"
-            endingLineNumber = "1738"
+            startingLineNumber = "1736"
+            endingLineNumber = "1736"
             landmarkName = "-deleteDesignation:"
             landmarkType = "7">
             <Locations>
@@ -4462,11 +4289,11 @@
                   moduleName = "Automate Firm"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/leonine/Desktop/backup%2018-11-2016/Automate%20Firm/Automate%20Firm/connectionclass.m"
-                  timestampString = "505994949.908628"
+                  timestampString = "506258479.63863"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "1738"
-                  endingLineNumber = "1738"
+                  startingLineNumber = "1736"
+                  endingLineNumber = "1736"
                   offsetFromSymbolStart = "160">
                </Location>
                <Location
@@ -4477,11 +4304,11 @@
                   moduleName = "Automate Firm"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/leonine/Desktop/backup%2018-11-2016/Automate%20Firm/Automate%20Firm/connectionclass.m"
-                  timestampString = "505994949.910303"
+                  timestampString = "506258479.640266"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "1742"
-                  endingLineNumber = "1742"
+                  startingLineNumber = "1740"
+                  endingLineNumber = "1740"
                   offsetFromSymbolStart = "109">
                </Location>
             </Locations>
@@ -4494,11 +4321,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "505994646.982117"
+            timestampString = "505995749.201814"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1760"
-            endingLineNumber = "1760"
+            startingLineNumber = "1758"
+            endingLineNumber = "1758"
             landmarkName = "-deleteDesignation:"
             landmarkType = "7">
          </BreakpointContent>
@@ -4510,11 +4337,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "505994646.982117"
+            timestampString = "505995749.201814"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1784"
-            endingLineNumber = "1784"
+            startingLineNumber = "1782"
+            endingLineNumber = "1782"
             landmarkName = "-moveEmployeesToDesignation:"
             landmarkType = "7">
          </BreakpointContent>
@@ -4526,11 +4353,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "505994646.982117"
+            timestampString = "505995749.201814"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1821"
-            endingLineNumber = "1821"
+            startingLineNumber = "1819"
+            endingLineNumber = "1819"
             landmarkName = "-moveEmployeesToDesignation:"
             landmarkType = "7">
          </BreakpointContent>
@@ -4542,11 +4369,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "505994646.982117"
+            timestampString = "506248398.581112"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "3739"
-            endingLineNumber = "3739"
+            startingLineNumber = "3798"
+            endingLineNumber = "3798"
             landmarkName = "-createNewweekRule:abbrev:description:weekStarton:offday1:offday2:offday3:partialday:beginningTime:endingTime:duration:breaktype:breakstart:breakend:breakduration:offficeid:::"
             landmarkType = "7">
          </BreakpointContent>
@@ -4554,62 +4381,46 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "505994646.982117"
+            timestampString = "506248398.581112"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "3787"
-            endingLineNumber = "3787"
-            landmarkName = "-createNewweekRule:abbrev:description:weekStarton:offday1:offday2:offday3:partialday:beginningTime:endingTime:duration:breaktype:breakstart:breakend:breakduration:offficeid:::"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "Automate Firm/connectionclass.m"
-            timestampString = "505994646.982117"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "3854"
-            endingLineNumber = "3854"
+            startingLineNumber = "3865"
+            endingLineNumber = "3865"
             landmarkName = "-viewIndivdualOfficeWeekRule:officeid:"
             landmarkType = "7">
             <Locations>
                <Location
-                  shouldBeEnabled = "Yes"
+                  shouldBeEnabled = "No"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
                   symbolName = "-[connectionclass viewIndivdualOfficeWeekRule:officeid:]"
                   moduleName = "Automate Firm"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/leonine/Desktop/backup%2018-11-2016/Automate%20Firm/Automate%20Firm/connectionclass.m"
-                  timestampString = "505994949.930618"
+                  timestampString = "505998596.170056"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "3854"
-                  endingLineNumber = "3854"
+                  startingLineNumber = "3852"
+                  endingLineNumber = "3852"
                   offsetFromSymbolStart = "210">
                </Location>
                <Location
-                  shouldBeEnabled = "Yes"
+                  shouldBeEnabled = "No"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
                   symbolName = "__56-[connectionclass viewIndivdualOfficeWeekRule:officeid:]_block_invoke"
                   moduleName = "Automate Firm"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/leonine/Desktop/backup%2018-11-2016/Automate%20Firm/Automate%20Firm/connectionclass.m"
-                  timestampString = "505994949.93235"
+                  timestampString = "505998596.171893"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "3858"
-                  endingLineNumber = "3858"
+                  startingLineNumber = "3856"
+                  endingLineNumber = "3856"
                   offsetFromSymbolStart = "109">
                </Location>
             </Locations>
@@ -4622,27 +4433,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "505994646.982117"
+            timestampString = "506248398.581112"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "3873"
-            endingLineNumber = "3873"
-            landmarkName = "-viewIndivdualOfficeWeekRule:officeid:"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "Automate Firm/connectionclass.m"
-            timestampString = "505994646.982117"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "3947"
-            endingLineNumber = "3947"
+            startingLineNumber = "3958"
+            endingLineNumber = "3958"
             landmarkName = "-updateNewweekRule:abbrev:description:weekStarton:offday1:offday2:offday3:partialday:beginningTime:endingTime:duration:breaktype:breakstart:breakend:breakduration:offficeid:ruleid:::"
             landmarkType = "7">
          </BreakpointContent>
@@ -4650,63 +4445,31 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "505994646.982117"
+            timestampString = "506248398.581112"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "3981"
-            endingLineNumber = "3981"
+            startingLineNumber = "3992"
+            endingLineNumber = "3992"
             landmarkName = "-deleteWeekRule:"
             landmarkType = "7">
-            <Locations>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "-[connectionclass deleteWeekRule:]"
-                  moduleName = "Automate Firm"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/leonine/Desktop/backup%2018-11-2016/Automate%20Firm/Automate%20Firm/connectionclass.m"
-                  timestampString = "505994949.942091"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "3981"
-                  endingLineNumber = "3981"
-                  offsetFromSymbolStart = "160">
-               </Location>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "__34-[connectionclass deleteWeekRule:]_block_invoke"
-                  moduleName = "Automate Firm"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/leonine/Desktop/backup%2018-11-2016/Automate%20Firm/Automate%20Firm/connectionclass.m"
-                  timestampString = "505994949.943728"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "3985"
-                  endingLineNumber = "3985"
-                  offsetFromSymbolStart = "109">
-               </Location>
-            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "505994646.982117"
+            timestampString = "506248398.581112"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "4002"
-            endingLineNumber = "4002"
+            startingLineNumber = "4013"
+            endingLineNumber = "4013"
             landmarkName = "-deleteWeekRule:"
             landmarkType = "7">
          </BreakpointContent>
@@ -4718,11 +4481,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "505994646.982117"
+            timestampString = "506248398.581112"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "7085"
-            endingLineNumber = "7085"
+            startingLineNumber = "7096"
+            endingLineNumber = "7096"
             landmarkName = "-viewAllDocuments:"
             landmarkType = "7">
          </BreakpointContent>
@@ -4734,11 +4497,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "505994646.982117"
+            timestampString = "506248398.581112"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "7112"
-            endingLineNumber = "7112"
+            startingLineNumber = "7123"
+            endingLineNumber = "7123"
             landmarkName = "-createNewDocument:officeId:"
             landmarkType = "7">
          </BreakpointContent>
@@ -4750,11 +4513,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "505994646.982117"
+            timestampString = "506248398.581112"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "7148"
-            endingLineNumber = "7148"
+            startingLineNumber = "7159"
+            endingLineNumber = "7159"
             landmarkName = "-createNewDocument:officeId:"
             landmarkType = "7">
          </BreakpointContent>
@@ -4782,11 +4545,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "505994646.982117"
+            timestampString = "506248398.581112"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "8997"
-            endingLineNumber = "8997"
+            startingLineNumber = "9008"
+            endingLineNumber = "9008"
             landmarkName = "-createPortal:"
             landmarkType = "7">
          </BreakpointContent>
@@ -4798,11 +4561,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "505994646.982117"
+            timestampString = "506248398.581112"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "9022"
-            endingLineNumber = "9022"
+            startingLineNumber = "9033"
+            endingLineNumber = "9033"
             landmarkName = "-createPortal:"
             landmarkType = "7">
          </BreakpointContent>
@@ -4814,11 +4577,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "505994646.982117"
+            timestampString = "506248398.581112"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "9053"
-            endingLineNumber = "9053"
+            startingLineNumber = "9064"
+            endingLineNumber = "9064"
             landmarkName = "-viewPortal:"
             landmarkType = "7">
          </BreakpointContent>
@@ -4830,11 +4593,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "505994646.982117"
+            timestampString = "506248398.581112"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "7218"
-            endingLineNumber = "7218"
+            startingLineNumber = "7229"
+            endingLineNumber = "7229"
             landmarkName = "-deleteDocument:officeId:docTypeId:"
             landmarkType = "7">
             <Locations>
@@ -4846,11 +4609,11 @@
                   moduleName = "Automate Firm"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/leonine/Desktop/backup%2018-11-2016/Automate%20Firm/Automate%20Firm/connectionclass.m"
-                  timestampString = "505994949.973003"
+                  timestampString = "506258479.688243"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "7219"
-                  endingLineNumber = "7219"
+                  startingLineNumber = "7235"
+                  endingLineNumber = "7235"
                   offsetFromSymbolStart = "316">
                </Location>
                <Location
@@ -4861,11 +4624,11 @@
                   moduleName = "Automate Firm"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/leonine/Desktop/backup%2018-11-2016/Automate%20Firm/Automate%20Firm/connectionclass.m"
-                  timestampString = "505994949.974643"
+                  timestampString = "506258479.689916"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "7223"
-                  endingLineNumber = "7223"
+                  startingLineNumber = "7239"
+                  endingLineNumber = "7239"
                   offsetFromSymbolStart = "109">
                </Location>
             </Locations>
@@ -4878,27 +4641,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "505994646.982117"
+            timestampString = "505995749.201814"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1089"
-            endingLineNumber = "1089"
-            landmarkName = "-roundUpViewAll:"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "Automate Firm/connectionclass.m"
-            timestampString = "505994646.982117"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1114"
-            endingLineNumber = "1114"
+            startingLineNumber = "1151"
+            endingLineNumber = "1151"
             landmarkName = "-roundUpUpdate:::::::::"
             landmarkType = "7">
          </BreakpointContent>
@@ -4910,75 +4657,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "505994646.982117"
+            timestampString = "506248398.581112"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1153"
-            endingLineNumber = "1153"
-            landmarkName = "-roundUpUpdate:::::::::"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "Automate Firm/connectionclass.m"
-            timestampString = "505994646.982117"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "7684"
-            endingLineNumber = "7684"
-            landmarkName = "-individualTileViewDetails:condId:"
-            landmarkType = "7">
-            <Locations>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "-[connectionclass individualTileViewDetails:condId:]"
-                  moduleName = "Automate Firm"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/leonine/Desktop/backup%2018-11-2016/Automate%20Firm/Automate%20Firm/connectionclass.m"
-                  timestampString = "505994949.987949"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "7684"
-                  endingLineNumber = "7684"
-                  offsetFromSymbolStart = "210">
-               </Location>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "__52-[connectionclass individualTileViewDetails:condId:]_block_invoke"
-                  moduleName = "Automate Firm"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/leonine/Desktop/backup%2018-11-2016/Automate%20Firm/Automate%20Firm/connectionclass.m"
-                  timestampString = "505994949.98957"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "7688"
-                  endingLineNumber = "7688"
-                  offsetFromSymbolStart = "109">
-               </Location>
-            </Locations>
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "Automate Firm/connectionclass.m"
-            timestampString = "505994646.982117"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "7705"
-            endingLineNumber = "7705"
+            startingLineNumber = "7695"
+            endingLineNumber = "7695"
             landmarkName = "-individualTileViewDetails:condId:"
             landmarkType = "7">
          </BreakpointContent>
@@ -4990,45 +4673,29 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "505994646.982117"
+            timestampString = "506248398.581112"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "7726"
-            endingLineNumber = "7726"
+            startingLineNumber = "7716"
+            endingLineNumber = "7716"
+            landmarkName = "-individualTileViewDetails:condId:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Automate Firm/connectionclass.m"
+            timestampString = "506248398.581112"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "7737"
+            endingLineNumber = "7737"
             landmarkName = "-EarningRuleDetails:"
             landmarkType = "7">
-            <Locations>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "-[connectionclass EarningRuleDetails:]"
-                  moduleName = "Automate Firm"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/leonine/Desktop/backup%2018-11-2016/Automate%20Firm/Automate%20Firm/connectionclass.m"
-                  timestampString = "505994949.996083"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "7726"
-                  endingLineNumber = "7726"
-                  offsetFromSymbolStart = "160">
-               </Location>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "__38-[connectionclass EarningRuleDetails:]_block_invoke"
-                  moduleName = "Automate Firm"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/leonine/Desktop/backup%2018-11-2016/Automate%20Firm/Automate%20Firm/connectionclass.m"
-                  timestampString = "505994949.998432"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "7730"
-                  endingLineNumber = "7730"
-                  offsetFromSymbolStart = "109">
-               </Location>
-            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -5038,11 +4705,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "505994646.982117"
+            timestampString = "506248398.581112"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "7747"
-            endingLineNumber = "7747"
+            startingLineNumber = "7758"
+            endingLineNumber = "7758"
             landmarkName = "-EarningRuleDetails:"
             landmarkType = "7">
          </BreakpointContent>
@@ -5054,11 +4721,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "505994646.982117"
+            timestampString = "506248398.581112"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "7787"
-            endingLineNumber = "7787"
+            startingLineNumber = "7798"
+            endingLineNumber = "7798"
             landmarkName = "-createcreateNewEarningRule:tileDetails:includeDesignation:officeId:idurl:"
             landmarkType = "7">
          </BreakpointContent>
@@ -5070,11 +4737,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "505994646.982117"
+            timestampString = "506248398.581112"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "7822"
-            endingLineNumber = "7822"
+            startingLineNumber = "7833"
+            endingLineNumber = "7833"
             landmarkName = "-createcreateNewEarningRule:tileDetails:includeDesignation:officeId:idurl:"
             landmarkType = "7">
          </BreakpointContent>
@@ -5086,11 +4753,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "505994646.982117"
+            timestampString = "506248398.581112"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "7914"
-            endingLineNumber = "7914"
+            startingLineNumber = "7925"
+            endingLineNumber = "7925"
             landmarkName = "-finalDoneFunction:"
             landmarkType = "7">
          </BreakpointContent>
@@ -5102,11 +4769,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "505994646.982117"
+            timestampString = "506248398.581112"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "7984"
-            endingLineNumber = "7984"
+            startingLineNumber = "7995"
+            endingLineNumber = "7995"
             landmarkName = "-deleteEarningRule:typeOfDel:"
             landmarkType = "7">
          </BreakpointContent>
@@ -5118,11 +4785,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "505994646.982117"
+            timestampString = "506248398.581112"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "8068"
-            endingLineNumber = "8068"
+            startingLineNumber = "8084"
+            endingLineNumber = "8084"
             landmarkName = "-createDeductionRule:tileDetails:includeDesignation:officeId:tileId:"
             landmarkType = "7">
          </BreakpointContent>
@@ -5134,11 +4801,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "505994646.982117"
+            timestampString = "506248398.581112"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "8156"
-            endingLineNumber = "8156"
+            startingLineNumber = "8167"
+            endingLineNumber = "8167"
             landmarkName = "-updateDeductionRule:tileDetails:includeDesignation:officeId:tileId:"
             landmarkType = "7">
          </BreakpointContent>
@@ -5150,11 +4817,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "505994646.982117"
+            timestampString = "506248398.581112"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "8215"
-            endingLineNumber = "8215"
+            startingLineNumber = "8226"
+            endingLineNumber = "8226"
             landmarkName = "-finalDoneFunctionForDeduction:"
             landmarkType = "7">
          </BreakpointContent>
@@ -5166,11 +4833,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "505994646.982117"
+            timestampString = "506248398.581112"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "8252"
-            endingLineNumber = "8252"
+            startingLineNumber = "8263"
+            endingLineNumber = "8263"
             landmarkName = "-finalDoneFunctionForDeduction:"
             landmarkType = "7">
          </BreakpointContent>
@@ -5182,59 +4849,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "505994646.982117"
+            timestampString = "506248398.581112"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "8294"
-            endingLineNumber = "8294"
-            landmarkName = "-deductionRuleDetails:offficeId:"
-            landmarkType = "7">
-            <Locations>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "-[connectionclass deductionRuleDetails:offficeId:]"
-                  moduleName = "Automate Firm"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/leonine/Desktop/backup%2018-11-2016/Automate%20Firm/Automate%20Firm/connectionclass.m"
-                  timestampString = "505994950.027813"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "8294"
-                  endingLineNumber = "8294"
-                  offsetFromSymbolStart = "210">
-               </Location>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "__50-[connectionclass deductionRuleDetails:offficeId:]_block_invoke"
-                  moduleName = "Automate Firm"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/leonine/Desktop/backup%2018-11-2016/Automate%20Firm/Automate%20Firm/connectionclass.m"
-                  timestampString = "505994950.029776"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "8298"
-                  endingLineNumber = "8298"
-                  offsetFromSymbolStart = "109">
-               </Location>
-            </Locations>
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "Automate Firm/connectionclass.m"
-            timestampString = "505994646.982117"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "8315"
-            endingLineNumber = "8315"
+            startingLineNumber = "8305"
+            endingLineNumber = "8305"
             landmarkName = "-deductionRuleDetails:offficeId:"
             landmarkType = "7">
          </BreakpointContent>
@@ -5246,45 +4865,29 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "505994646.982117"
+            timestampString = "506248398.581112"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "8338"
-            endingLineNumber = "8338"
+            startingLineNumber = "8326"
+            endingLineNumber = "8326"
+            landmarkName = "-deductionRuleDetails:offficeId:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Automate Firm/connectionclass.m"
+            timestampString = "506248398.581112"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "8349"
+            endingLineNumber = "8349"
             landmarkName = "-individualDeductionTileConditionDetails:ruleId:"
             landmarkType = "7">
-            <Locations>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "-[connectionclass individualDeductionTileConditionDetails:ruleId:]"
-                  moduleName = "Automate Firm"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/leonine/Desktop/backup%2018-11-2016/Automate%20Firm/Automate%20Firm/connectionclass.m"
-                  timestampString = "505994950.036691"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "8338"
-                  endingLineNumber = "8338"
-                  offsetFromSymbolStart = "210">
-               </Location>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "__66-[connectionclass individualDeductionTileConditionDetails:ruleId:]_block_invoke"
-                  moduleName = "Automate Firm"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/leonine/Desktop/backup%2018-11-2016/Automate%20Firm/Automate%20Firm/connectionclass.m"
-                  timestampString = "505994950.038807"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "8342"
-                  endingLineNumber = "8342"
-                  offsetFromSymbolStart = "109">
-               </Location>
-            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -5306,31 +4909,15 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "Automate Firm/roundupsettingsviewclass.m"
-            timestampString = "505808763.591889"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "356"
-            endingLineNumber = "356"
-            landmarkName = "-initiallyRoundupRuleViewResponse:"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
             shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "505994646.982117"
+            timestampString = "506248398.581112"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "7658"
-            endingLineNumber = "7658"
+            startingLineNumber = "7669"
+            endingLineNumber = "7669"
             landmarkName = "-viewAllEarningsList:"
             landmarkType = "7">
          </BreakpointContent>
@@ -5358,11 +4945,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "505994646.982117"
+            timestampString = "506248398.581112"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "7877"
-            endingLineNumber = "7877"
+            startingLineNumber = "7888"
+            endingLineNumber = "7888"
             landmarkName = "-finalDoneFunction:"
             landmarkType = "7">
          </BreakpointContent>
@@ -5374,45 +4961,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "505994646.982117"
+            timestampString = "506248398.581112"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "7963"
-            endingLineNumber = "7963"
+            startingLineNumber = "7974"
+            endingLineNumber = "7974"
             landmarkName = "-deleteEarningRule:typeOfDel:"
             landmarkType = "7">
-            <Locations>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "-[connectionclass deleteEarningRule:typeOfDel:]"
-                  moduleName = "Automate Firm"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/leonine/Desktop/backup%2018-11-2016/Automate%20Firm/Automate%20Firm/connectionclass.m"
-                  timestampString = "505994950.055688"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "7963"
-                  endingLineNumber = "7963"
-                  offsetFromSymbolStart = "599">
-               </Location>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "__47-[connectionclass deleteEarningRule:typeOfDel:]_block_invoke"
-                  moduleName = "Automate Firm"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/leonine/Desktop/backup%2018-11-2016/Automate%20Firm/Automate%20Firm/connectionclass.m"
-                  timestampString = "505994950.057317"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "7967"
-                  endingLineNumber = "7967"
-                  offsetFromSymbolStart = "109">
-               </Location>
-            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -5454,11 +5009,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "505994646.982117"
+            timestampString = "506248398.581112"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "3902"
-            endingLineNumber = "3902"
+            startingLineNumber = "3918"
+            endingLineNumber = "3918"
             landmarkName = "-updateNewweekRule:abbrev:description:weekStarton:offday1:offday2:offday3:partialday:beginningTime:endingTime:duration:breaktype:breakstart:breakend:breakduration:offficeid:ruleid:::"
             landmarkType = "7">
          </BreakpointContent>
@@ -5470,45 +5025,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "505994646.982117"
+            timestampString = "506248398.581112"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "4024"
-            endingLineNumber = "4024"
+            startingLineNumber = "4035"
+            endingLineNumber = "4035"
             landmarkName = "-includeDesignation:::"
             landmarkType = "7">
-            <Locations>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "-[connectionclass includeDesignation:::]"
-                  moduleName = "Automate Firm"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/leonine/Desktop/backup%2018-11-2016/Automate%20Firm/Automate%20Firm/connectionclass.m"
-                  timestampString = "505994950.067922"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "4024"
-                  endingLineNumber = "4024"
-                  offsetFromSymbolStart = "279">
-               </Location>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "__40-[connectionclass includeDesignation:::]_block_invoke"
-                  moduleName = "Automate Firm"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/leonine/Desktop/backup%2018-11-2016/Automate%20Firm/Automate%20Firm/connectionclass.m"
-                  timestampString = "505994950.070076"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "4028"
-                  endingLineNumber = "4028"
-                  offsetFromSymbolStart = "109">
-               </Location>
-            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -5518,11 +5041,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "505994646.982117"
+            timestampString = "506248398.581112"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "4043"
-            endingLineNumber = "4043"
+            startingLineNumber = "4054"
+            endingLineNumber = "4054"
             landmarkName = "-includeDesignation:::"
             landmarkType = "7">
          </BreakpointContent>
@@ -5550,7 +5073,7 @@
                   moduleName = "Automate Firm"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/leonine/Desktop/backup%2018-11-2016/Automate%20Firm/Automate%20Firm/earningsview.m"
-                  timestampString = "505994950.077108"
+                  timestampString = "506258479.773783"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "435"
@@ -5565,7 +5088,7 @@
                   moduleName = "Automate Firm"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/leonine/Desktop/backup%2018-11-2016/Automate%20Firm/Automate%20Firm/earningsview.m"
-                  timestampString = "505994950.078756"
+                  timestampString = "506258479.775593"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "435"
@@ -5582,11 +5105,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "505994646.982117"
+            timestampString = "506248398.581112"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "8040"
-            endingLineNumber = "8040"
+            startingLineNumber = "8056"
+            endingLineNumber = "8056"
             landmarkName = "-createDeductionRule:tileDetails:includeDesignation:officeId:tileId:"
             landmarkType = "7">
          </BreakpointContent>
@@ -5598,11 +5121,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "505994646.982117"
+            timestampString = "506248398.581112"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "8125"
-            endingLineNumber = "8125"
+            startingLineNumber = "8136"
+            endingLineNumber = "8136"
             landmarkName = "-updateDeductionRule:tileDetails:includeDesignation:officeId:tileId:"
             landmarkType = "7">
          </BreakpointContent>
@@ -5614,11 +5137,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "505994646.982117"
+            timestampString = "506248398.581112"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "8359"
-            endingLineNumber = "8359"
+            startingLineNumber = "8370"
+            endingLineNumber = "8370"
             landmarkName = "-individualDeductionTileConditionDetails:ruleId:"
             landmarkType = "7">
          </BreakpointContent>
@@ -5630,59 +5153,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "505994646.982117"
+            timestampString = "506248398.581112"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "8387"
-            endingLineNumber = "8387"
-            landmarkName = "-deleteDeductionRule:idFlag:"
-            landmarkType = "7">
-            <Locations>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "-[connectionclass deleteDeductionRule:idFlag:]"
-                  moduleName = "Automate Firm"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/leonine/Desktop/backup%2018-11-2016/Automate%20Firm/Automate%20Firm/connectionclass.m"
-                  timestampString = "505994950.092627"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "8387"
-                  endingLineNumber = "8387"
-                  offsetFromSymbolStart = "341">
-               </Location>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "__46-[connectionclass deleteDeductionRule:idFlag:]_block_invoke"
-                  moduleName = "Automate Firm"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/leonine/Desktop/backup%2018-11-2016/Automate%20Firm/Automate%20Firm/connectionclass.m"
-                  timestampString = "505994950.094295"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "8391"
-                  endingLineNumber = "8391"
-                  offsetFromSymbolStart = "109">
-               </Location>
-            </Locations>
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "Automate Firm/connectionclass.m"
-            timestampString = "505994646.982117"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "8407"
-            endingLineNumber = "8407"
+            startingLineNumber = "8398"
+            endingLineNumber = "8398"
             landmarkName = "-deleteDeductionRule:idFlag:"
             landmarkType = "7">
          </BreakpointContent>
@@ -5694,28 +5169,12 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "505994646.982117"
+            timestampString = "506248398.581112"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "8051"
-            endingLineNumber = "8051"
-            landmarkName = "-createDeductionRule:tileDetails:includeDesignation:officeId:tileId:"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "Automate Firm/weeksetting.m"
-            timestampString = "505985079.431936"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "946"
-            endingLineNumber = "946"
-            landmarkName = "-textFieldShouldBeginEditing:"
+            startingLineNumber = "8418"
+            endingLineNumber = "8418"
+            landmarkName = "-deleteDeductionRule:idFlag:"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
@@ -5726,11 +5185,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "505993656.504186"
+            timestampString = "505995749.201814"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "748"
-            endingLineNumber = "748"
+            startingLineNumber = "746"
+            endingLineNumber = "746"
             landmarkName = "-createnewTimerule::abbrv:descripton:checkgracetime:checkgracetimetextvalue:workfirstdetails:workfirstdetailstextvalue:worksecondetails:workthirddetails:latearrivaloption:latearrivalvalue1:latearrivalvalue2:latearrivalvalue3:latearrivalvalue4:firstpenalty:secondpenalty:thirdpenalty:workhoursfirst:workhourssecond:workhoursthird:workhoursfourth:workhoursfifth:timestatusflag:createdby:::"
             landmarkType = "7">
          </BreakpointContent>
@@ -5742,11 +5201,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "505994646.982117"
+            timestampString = "505995749.201814"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "795"
-            endingLineNumber = "795"
+            startingLineNumber = "793"
+            endingLineNumber = "793"
             landmarkName = "-createnewTimerule::abbrv:descripton:checkgracetime:checkgracetimetextvalue:workfirstdetails:workfirstdetailstextvalue:worksecondetails:workthirddetails:latearrivaloption:latearrivalvalue1:latearrivalvalue2:latearrivalvalue3:latearrivalvalue4:firstpenalty:secondpenalty:thirdpenalty:workhoursfirst:workhourssecond:workhoursthird:workhoursfourth:workhoursfifth:timestatusflag:createdby:::"
             landmarkType = "7">
          </BreakpointContent>
@@ -5758,11 +5217,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "505994646.982117"
+            timestampString = "505995749.201814"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "884"
-            endingLineNumber = "884"
+            startingLineNumber = "882"
+            endingLineNumber = "882"
             landmarkName = "-updatesettingsviewrule::"
             landmarkType = "7">
             <Locations>
@@ -5774,11 +5233,11 @@
                   moduleName = "Automate Firm"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/leonine/Desktop/backup%2018-11-2016/Automate%20Firm/Automate%20Firm/connectionclass.m"
-                  timestampString = "505994950.117611"
+                  timestampString = "506258479.802547"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "884"
-                  endingLineNumber = "884"
+                  startingLineNumber = "882"
+                  endingLineNumber = "882"
                   offsetFromSymbolStart = "210">
                </Location>
                <Location
@@ -5789,11 +5248,11 @@
                   moduleName = "Automate Firm"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/leonine/Desktop/backup%2018-11-2016/Automate%20Firm/Automate%20Firm/connectionclass.m"
-                  timestampString = "505994950.119585"
+                  timestampString = "506258479.804174"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "887"
-                  endingLineNumber = "887"
+                  startingLineNumber = "885"
+                  endingLineNumber = "885"
                   offsetFromSymbolStart = "109">
                </Location>
             </Locations>
@@ -5806,11 +5265,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "505994646.982117"
+            timestampString = "505995749.201814"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "902"
-            endingLineNumber = "902"
+            startingLineNumber = "900"
+            endingLineNumber = "900"
             landmarkName = "-updatesettingsviewrule::"
             landmarkType = "7">
          </BreakpointContent>
@@ -5822,11 +5281,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "505994646.982117"
+            timestampString = "505995749.201814"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "928"
-            endingLineNumber = "928"
+            startingLineNumber = "926"
+            endingLineNumber = "926"
             landmarkName = "@implementation connectionclass"
             landmarkType = "3">
          </BreakpointContent>
@@ -5838,11 +5297,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "505994646.982117"
+            timestampString = "505995749.201814"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "980"
-            endingLineNumber = "980"
+            startingLineNumber = "978"
+            endingLineNumber = "978"
             landmarkName = "@implementation connectionclass"
             landmarkType = "3">
          </BreakpointContent>
@@ -5854,11 +5313,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "505994646.982117"
+            timestampString = "505995749.201814"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1026"
-            endingLineNumber = "1026"
+            startingLineNumber = "1024"
+            endingLineNumber = "1024"
             landmarkName = "-deleteTimeRule::"
             landmarkType = "7">
             <Locations>
@@ -5870,11 +5329,11 @@
                   moduleName = "Automate Firm"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/leonine/Desktop/backup%2018-11-2016/Automate%20Firm/Automate%20Firm/connectionclass.m"
-                  timestampString = "505994950.132908"
+                  timestampString = "506258479.818494"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "1026"
-                  endingLineNumber = "1026"
+                  startingLineNumber = "1024"
+                  endingLineNumber = "1024"
                   offsetFromSymbolStart = "210">
                </Location>
                <Location
@@ -5885,11 +5344,11 @@
                   moduleName = "Automate Firm"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/leonine/Desktop/backup%2018-11-2016/Automate%20Firm/Automate%20Firm/connectionclass.m"
-                  timestampString = "505994950.134554"
+                  timestampString = "506258479.820315"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "1030"
-                  endingLineNumber = "1030"
+                  startingLineNumber = "1028"
+                  endingLineNumber = "1028"
                   offsetFromSymbolStart = "109">
                </Location>
             </Locations>
@@ -5902,12 +5361,92 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "505994646.982117"
+            timestampString = "505995749.201814"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1047"
-            endingLineNumber = "1047"
+            startingLineNumber = "1045"
+            endingLineNumber = "1045"
             landmarkName = "-deleteTimeRule::"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Automate Firm/connectionclass.m"
+            timestampString = "506248398.581112"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "3778"
+            endingLineNumber = "3778"
+            landmarkName = "-createNewweekRule:abbrev:description:weekStarton:offday1:offday2:offday3:partialday:beginningTime:endingTime:duration:breaktype:breakstart:breakend:breakduration:offficeid:::"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Automate Firm/connectionclass.m"
+            timestampString = "506243068.42615"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "3763"
+            endingLineNumber = "3763"
+            landmarkName = "-createNewweekRule:abbrev:description:weekStarton:offday1:offday2:offday3:partialday:beginningTime:endingTime:duration:breaktype:breakstart:breakend:breakduration:offficeid:::"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Automate Firm/weeksetting.m"
+            timestampString = "506252741.058168"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1036"
+            endingLineNumber = "1036"
+            landmarkName = "-textFieldShouldBeginEditing:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Automate Firm/weeksetting.m"
+            timestampString = "506253488.770373"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "3326"
+            endingLineNumber = "3326"
+            landmarkName = "-individualweekruleDetailsViewResponse:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Automate Firm/connectionclass.m"
+            timestampString = "506258307.295142"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1126"
+            endingLineNumber = "1126"
+            landmarkName = "-roundUpUpdate:::::::::"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>

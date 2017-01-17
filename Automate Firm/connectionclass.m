@@ -18,7 +18,7 @@
 
 
 NSString *const subDomainMainURL = @"http://automatefirm.com/automate_new/";
-NSString *const subdomainURL = @"http://192.168.1.35/af1.1/";
+NSString *const subdomainURL = @"http://192.168.1.22/af1.1/";
 
 
 //-----------------------------------Time--------------------------------------------------
@@ -3743,14 +3743,32 @@ dispatch_async(dispatch_get_main_queue(), ^{
     
     
     if (designationList.count > 0) {
-        NSDictionary *mapData = [[NSDictionary alloc] initWithObjectsAndKeys:ruleName,@"rule_name",abbrv ,@"rule_abr",description,@"rule_description",weekStarton,@"week_start",offDay1,@"app_offday_1",offDay2,@"app_offday_2",offDay3,@"app_offday_3",partialday,@"app_offday_4",beginningTime,@"p_begin",endingTime,@"p_end",duration,@"duration",breaktype,@"breaktype",breakstart,@"break_start",breakend,@"break_stop",breakduration,@"break_duration",officeid,@"o_id",designation,@"selected_desig",designationList,@"designation_list",nil];
+        NSMutableDictionary *mapData = [[NSMutableDictionary alloc] initWithObjectsAndKeys:ruleName,@"rule_name",abbrv ,@"rule_abr",description,@"rule_description",weekStarton,@"week_start",offDay1,@"app_offday_1",offDay2,@"app_offday_2",offDay3,@"app_offday_3",partialday,@"app_offday_4",beginningTime,@"p_begin",endingTime,@"p_end",duration,@"duration",breaktype,@"breaktype",breakstart,@"break_start",breakend,@"break_stop",officeid,@"o_id",designation,@"selected_desig",designationList,@"designation_list",nil];
+        
+        if ([breaktype isEqualToString:@"Fixed Break"]) {
+            [mapData setObject:breakduration forKey:@"fixed_duration"];
+        }
+        else if([breaktype isEqualToString:@"Duration Based"])
+        {
+            [mapData setObject:breakduration forKey:@"duration_based"];
+        }
+        
+        //breakduration,@"break_duration"
         
         NSData *postData = [NSJSONSerialization dataWithJSONObject:mapData options:0 error:&error];
         [request setHTTPBody:postData];
     }
     else
     {
-        NSDictionary *mapData = [[NSDictionary alloc] initWithObjectsAndKeys:ruleName,@"rule_name",abbrv ,@"rule_abr",description,@"rule_description",weekStarton,@"week_start",offDay1,@"app_offday_1",offDay2,@"app_offday_2",offDay3,@"app_offday_3",partialday,@"app_offday_4",beginningTime,@"p_begin",endingTime,@"p_end",duration,@"duration",breaktype,@"breaktype",breakstart,@"break_start",breakend,@"break_stop",breakduration,@"break_duration",officeid,@"o_id",designation,@"selected_desig",@"",@"designation_list",nil];
+        NSMutableDictionary *mapData = [[NSMutableDictionary alloc] initWithObjectsAndKeys:ruleName,@"rule_name",abbrv ,@"rule_abr",description,@"rule_description",weekStarton,@"week_start",offDay1,@"app_offday_1",offDay2,@"app_offday_2",offDay3,@"app_offday_3",partialday,@"app_offday_4",beginningTime,@"p_begin",endingTime,@"p_end",duration,@"duration",breaktype,@"breaktype",breakstart,@"break_start",breakend,@"break_stop",officeid,@"o_id",designation,@"selected_desig",@"",@"designation_list",nil];
+        
+        if ([breaktype isEqualToString:@"Fixed Break"]) {
+            [mapData setObject:breakduration forKey:@"fixed_duration"];
+        }
+        else if ([breaktype isEqualToString:@"Duration Based"])
+        {
+            [mapData setObject:breakduration forKey:@"duration_based"];
+        }
         
         NSData *postData = [NSJSONSerialization dataWithJSONObject:mapData options:0 error:&error];
         [request setHTTPBody:postData];
