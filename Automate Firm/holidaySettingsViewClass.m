@@ -25,10 +25,7 @@
     self.cancelString=@"0";
     self.doneString=@"0";
     self.cancelActionFlag=@"0";
-    self.mandString=@"0";
-
-
-
+    self.mandString=@"0";//gegeegegegege
 
 
  //  [self.myconnection getHolidaypageWorkingPremise:[[NSUserDefaults standardUserDefaults]objectForKey:@"selectedofficeId"]];
