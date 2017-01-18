@@ -10,6 +10,7 @@
 #import <UIKit/UIKit.h>
 #import "headerprotocol.h"
 #import "AppDelegate.h"
+
 @interface connectionclass : NSObject<NSURLSessionDelegate,NSURLSessionDataDelegate>
 {
     AppDelegate *app;

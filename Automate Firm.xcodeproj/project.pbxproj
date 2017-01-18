@@ -1463,6 +1463,28 @@
 		DA93E14D1D34CB2D0063B73E /* timecardpopupcustomcell.xib in Resources */ = {isa = PBXBuildFile; fileRef = DA93E14B1D34CB2D0063B73E /* timecardpopupcustomcell.xib */; };
 		DA93E14F1D34CBA70063B73E /* img_greyout.png in Resources */ = {isa = PBXBuildFile; fileRef = DA93E14E1D34CBA70063B73E /* img_greyout.png */; };
 		DA93E1511D34DAAE0063B73E /* img_color.png in Resources */ = {isa = PBXBuildFile; fileRef = DA93E1501D34DAAE0063B73E /* img_color.png */; };
+		DA9E62011E2F434A006F4FBD /* logo.png in Resources */ = {isa = PBXBuildFile; fileRef = DA9E62001E2F434A006F4FBD /* logo.png */; };
+		DA9E62041E2F44D3006F4FBD /* 20.png in Resources */ = {isa = PBXBuildFile; fileRef = DA9E62021E2F44D3006F4FBD /* 20.png */; };
+		DA9E62051E2F44D3006F4FBD /* 21.png in Resources */ = {isa = PBXBuildFile; fileRef = DA9E62031E2F44D3006F4FBD /* 21.png */; };
+		DA9E62071E2F45BF006F4FBD /* url.png in Resources */ = {isa = PBXBuildFile; fileRef = DA9E62061E2F45BF006F4FBD /* url.png */; };
+		DA9E62091E2F45C9006F4FBD /* status.png in Resources */ = {isa = PBXBuildFile; fileRef = DA9E62081E2F45C9006F4FBD /* status.png */; };
+		DA9E620B1E2F45D6006F4FBD /* storage.png in Resources */ = {isa = PBXBuildFile; fileRef = DA9E620A1E2F45D6006F4FBD /* storage.png */; };
+		DA9E620D1E2F46D4006F4FBD /* userreg.png in Resources */ = {isa = PBXBuildFile; fileRef = DA9E620C1E2F46D4006F4FBD /* userreg.png */; };
+		DA9E620F1E2F4CC5006F4FBD /* 18.png in Resources */ = {isa = PBXBuildFile; fileRef = DA9E620E1E2F4CC5006F4FBD /* 18.png */; };
+		DA9E62111E2F4DBF006F4FBD /* iconsplash.png in Resources */ = {isa = PBXBuildFile; fileRef = DA9E62101E2F4DBF006F4FBD /* iconsplash.png */; };
+		DA9E62131E2F503A006F4FBD /* linees.png in Resources */ = {isa = PBXBuildFile; fileRef = DA9E62121E2F503A006F4FBD /* linees.png */; };
+		DA9E62161E2F5233006F4FBD /* stamp.png in Resources */ = {isa = PBXBuildFile; fileRef = DA9E62141E2F5233006F4FBD /* stamp.png */; };
+		DA9E62171E2F5233006F4FBD /* template.png in Resources */ = {isa = PBXBuildFile; fileRef = DA9E62151E2F5233006F4FBD /* template.png */; };
+		DA9E621B1E2F546C006F4FBD /* 19.png in Resources */ = {isa = PBXBuildFile; fileRef = DA9E621A1E2F546C006F4FBD /* 19.png */; };
+		DA9E621D1E2F55CD006F4FBD /* 17.png in Resources */ = {isa = PBXBuildFile; fileRef = DA9E621C1E2F55CD006F4FBD /* 17.png */; };
+		DA9E62211E2F5CAB006F4FBD /* 1.png in Resources */ = {isa = PBXBuildFile; fileRef = DA9E621E1E2F5CAB006F4FBD /* 1.png */; };
+		DA9E62251E2F5D5F006F4FBD /* 3e2e.png in Resources */ = {isa = PBXBuildFile; fileRef = DA9E62241E2F5D5F006F4FBD /* 3e2e.png */; };
+		DA9E62271E2F5DCB006F4FBD /* 5.png in Resources */ = {isa = PBXBuildFile; fileRef = DA9E62261E2F5DCB006F4FBD /* 5.png */; };
+		DA9E62291E2F6084006F4FBD /* 7.png in Resources */ = {isa = PBXBuildFile; fileRef = DA9E62281E2F6084006F4FBD /* 7.png */; };
+		DA9E622B1E2F611A006F4FBD /* 9.png in Resources */ = {isa = PBXBuildFile; fileRef = DA9E622A1E2F611A006F4FBD /* 9.png */; };
+		DA9E622D1E2F62AB006F4FBD /* 11df.png in Resources */ = {isa = PBXBuildFile; fileRef = DA9E622C1E2F62AB006F4FBD /* 11df.png */; };
+		DA9E622F1E2F6D92006F4FBD /* 13.png in Resources */ = {isa = PBXBuildFile; fileRef = DA9E622E1E2F6D92006F4FBD /* 13.png */; };
+		DA9E62311E2F7CF5006F4FBD /* 15.png in Resources */ = {isa = PBXBuildFile; fileRef = DA9E62301E2F7CF5006F4FBD /* 15.png */; };
 		DA9EC3761D1921A600CD9BFE /* IMG_55_1 (1).png in Resources */ = {isa = PBXBuildFile; fileRef = DA9EC3751D1921A600CD9BFE /* IMG_55_1 (1).png */; };
 		DA9EC3781D1921CB00CD9BFE /* 44_1.png in Resources */ = {isa = PBXBuildFile; fileRef = DA9EC3771D1921CB00CD9BFE /* 44_1.png */; };
 		DAA28F541D64786C006B821D /* document-thumbnail.jpg in Resources */ = {isa = PBXBuildFile; fileRef = DAA28F531D64786C006B821D /* document-thumbnail.jpg */; };
@@ -3295,6 +3317,28 @@
 		DA93E14B1D34CB2D0063B73E /* timecardpopupcustomcell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = timecardpopupcustomcell.xib; sourceTree = "<group>"; };
 		DA93E14E1D34CBA70063B73E /* img_greyout.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = img_greyout.png; sourceTree = "<group>"; };
 		DA93E1501D34DAAE0063B73E /* img_color.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = img_color.png; sourceTree = "<group>"; };
+		DA9E62001E2F434A006F4FBD /* logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = logo.png; sourceTree = "<group>"; };
+		DA9E62021E2F44D3006F4FBD /* 20.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 20.png; sourceTree = "<group>"; };
+		DA9E62031E2F44D3006F4FBD /* 21.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 21.png; sourceTree = "<group>"; };
+		DA9E62061E2F45BF006F4FBD /* url.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = url.png; sourceTree = "<group>"; };
+		DA9E62081E2F45C9006F4FBD /* status.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = status.png; sourceTree = "<group>"; };
+		DA9E620A1E2F45D6006F4FBD /* storage.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = storage.png; sourceTree = "<group>"; };
+		DA9E620C1E2F46D4006F4FBD /* userreg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = userreg.png; sourceTree = "<group>"; };
+		DA9E620E1E2F4CC5006F4FBD /* 18.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 18.png; sourceTree = "<group>"; };
+		DA9E62101E2F4DBF006F4FBD /* iconsplash.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = iconsplash.png; sourceTree = "<group>"; };
+		DA9E62121E2F503A006F4FBD /* linees.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = linees.png; sourceTree = "<group>"; };
+		DA9E62141E2F5233006F4FBD /* stamp.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = stamp.png; sourceTree = "<group>"; };
+		DA9E62151E2F5233006F4FBD /* template.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = template.png; sourceTree = "<group>"; };
+		DA9E621A1E2F546C006F4FBD /* 19.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 19.png; sourceTree = "<group>"; };
+		DA9E621C1E2F55CD006F4FBD /* 17.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 17.png; sourceTree = "<group>"; };
+		DA9E621E1E2F5CAB006F4FBD /* 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1.png; sourceTree = "<group>"; };
+		DA9E62241E2F5D5F006F4FBD /* 3e2e.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 3e2e.png; sourceTree = "<group>"; };
+		DA9E62261E2F5DCB006F4FBD /* 5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 5.png; sourceTree = "<group>"; };
+		DA9E62281E2F6084006F4FBD /* 7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 7.png; sourceTree = "<group>"; };
+		DA9E622A1E2F611A006F4FBD /* 9.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 9.png; sourceTree = "<group>"; };
+		DA9E622C1E2F62AB006F4FBD /* 11df.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 11df.png; sourceTree = "<group>"; };
+		DA9E622E1E2F6D92006F4FBD /* 13.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 13.png; sourceTree = "<group>"; };
+		DA9E62301E2F7CF5006F4FBD /* 15.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 15.png; sourceTree = "<group>"; };
 		DA9EC3751D1921A600CD9BFE /* IMG_55_1 (1).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "IMG_55_1 (1).png"; sourceTree = "<group>"; };
 		DA9EC3771D1921CB00CD9BFE /* 44_1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 44_1.png; sourceTree = "<group>"; };
 		DAA28F531D64786C006B821D /* document-thumbnail.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "document-thumbnail.jpg"; sourceTree = "<group>"; };
@@ -5667,6 +5711,28 @@
 				AE40129A1D9A5E3E00A28157 /* download.jpeg */,
 				AE40129B1D9A5E3E00A28157 /* download (1y).png */,
 				AE4012931D9A5E3400A28157 /* folder.png */,
+				DA9E62001E2F434A006F4FBD /* logo.png */,
+				DA9E62021E2F44D3006F4FBD /* 20.png */,
+				DA9E62031E2F44D3006F4FBD /* 21.png */,
+				DA9E620A1E2F45D6006F4FBD /* storage.png */,
+				DA9E62281E2F6084006F4FBD /* 7.png */,
+				DA9E62061E2F45BF006F4FBD /* url.png */,
+				DA9E620C1E2F46D4006F4FBD /* userreg.png */,
+				DA9E622C1E2F62AB006F4FBD /* 11df.png */,
+				DA9E62081E2F45C9006F4FBD /* status.png */,
+				DA9E620E1E2F4CC5006F4FBD /* 18.png */,
+				DA9E622A1E2F611A006F4FBD /* 9.png */,
+				DA9E62101E2F4DBF006F4FBD /* iconsplash.png */,
+				DA9E62141E2F5233006F4FBD /* stamp.png */,
+				DA9E62151E2F5233006F4FBD /* template.png */,
+				DA9E62121E2F503A006F4FBD /* linees.png */,
+				DA9E621A1E2F546C006F4FBD /* 19.png */,
+				DA9E621C1E2F55CD006F4FBD /* 17.png */,
+				DA9E621E1E2F5CAB006F4FBD /* 1.png */,
+				DA9E62261E2F5DCB006F4FBD /* 5.png */,
+				DA9E62241E2F5D5F006F4FBD /* 3e2e.png */,
+				DA9E62301E2F7CF5006F4FBD /* 15.png */,
+				DA9E622E1E2F6D92006F4FBD /* 13.png */,
 				AEE06EB91BA6C2D8009C17AD /* oxygen font */,
 				AEE06EC01BA6C2F2009C17AD /* categoryimagepicker */,
 				AE711B221D0FECDB00635876 /* AppDelegateClass */,
@@ -5895,6 +5961,7 @@
 				AE56B2331C968115000A45B5 /* deligate_white.png in Resources */,
 				AE7809F41D4CB5B700208E26 /* shift_icon1.png in Resources */,
 				DA0001221D474596005A75E6 /* button3gf3.png in Resources */,
+				DA9E621B1E2F546C006F4FBD /* 19.png in Resources */,
 				AE780A091D4CB61700208E26 /* white_bar.png in Resources */,
 				AE4CBC871D7E901500AACDBA /* blue.jpg in Resources */,
 				AE5082E91DA228E500010C28 /* shifticon_Night.png in Resources */,
@@ -5983,11 +6050,13 @@
 				AE46151A1C59E2860016BC3E /* iconhome_marketing_focus.png in Resources */,
 				AEC1229B1D51CECC006FD8B8 /* left_arrow_web.png in Resources */,
 				DAC685B71CD9FA1300EA26B1 /* box_2_1.png in Resources */,
+				DA9E62041E2F44D3006F4FBD /* 20.png in Resources */,
 				AE4615181C59E2750016BC3E /* iconhome_inventory_focus.png in Resources */,
 				AE6EB9EB1E28BDE7009BD09C /* bghhh.jpg in Resources */,
 				AE7A9AF41D55C3B500B9E28F /* orang_Auth.png in Resources */,
 				AEB05AD71D17E08700BBAA62 /* column_4_revised.png in Resources */,
 				AE4615161C59E2630016BC3E /* iconhome_task_focus.png in Resources */,
+				DA9E62251E2F5D5F006F4FBD /* 3e2e.png in Resources */,
 				AE4615141C59E2500016BC3E /* iconhome_accounts_focus.png in Resources */,
 				DA1CF8001CCE241C00BD0C4A /* icon_document.png in Resources */,
 				AEC122A11D51D124006FD8B8 /* 2.png in Resources */,
@@ -6010,6 +6079,7 @@
 				DA0EB63F1CDB0C3400295B4C /* offdayIneterferenceView.xib in Resources */,
 				AE842D5B1DCA0B2000B8AC88 /* bag-icon.png in Resources */,
 				AE7A9ABE1D55A27300B9E28F /* group_box_revised2.png in Resources */,
+				DA9E62311E2F7CF5006F4FBD /* 15.png in Resources */,
 				AE46150A1C59E1740016BC3E /* iconhome_survelliance.png in Resources */,
 				AEEF0EDA1C69ED3E007CA307 /* otherdetailscellview.xib in Resources */,
 				AE498AC31DB622A600672603 /* calenderEachCell.xib in Resources */,
@@ -6033,6 +6103,7 @@
 				AE4614341C59D0330016BC3E /* employeename_graybar (3).png in Resources */,
 				AE4012941D9A5E3400A28157 /* back_arrow_88 x 88.png in Resources */,
 				AE609C271D1288DB0000A344 /* othersReason.png in Resources */,
+				DA9E620B1E2F45D6006F4FBD /* storage.png in Resources */,
 				AE67F9E61C1C37DD001ABBFE /* overtimeSettingsView.xib in Resources */,
 				AE35D2101DBF2AD600A4780D /* biometric.png in Resources */,
 				AEB05AD91D17E08E00BBAA62 /* reason_02.newAdvance.png in Resources */,
@@ -6120,6 +6191,7 @@
 				AE5E4D801D49EADA00638D7C /* ic1.png in Resources */,
 				AE7BB95B1D96935000C9C5EB /* greenExpens.png in Resources */,
 				DA0B5DEE1CEDCFCF004B12DC /* icon_code.png in Resources */,
+				DA9E62291E2F6084006F4FBD /* 7.png in Resources */,
 				DA93E13C1D34AF240063B73E /* revimg_1e_white.png in Resources */,
 				DA0B5E011CEDCFCF004B12DC /* 15hours_box_white.png in Resources */,
 				DAC685AE1CD9F62500EA26B1 /* carrySecondView.xib in Resources */,
@@ -6127,6 +6199,7 @@
 				AE3E2B651BCE538500FAAB31 /* attendance_topbar.png in Resources */,
 				AE78091B1D4CAC0C00208E26 /* employeetasksview.xib in Resources */,
 				AE4614361C59D0330016BC3E /* working_hours.png in Resources */,
+				DA9E62111E2F4DBF006F4FBD /* iconsplash.png in Resources */,
 				AE4EAEA41D192998000DEAE4 /* office22.png in Resources */,
 				AE5BD3DB1DC48D4E0075A670 /* converting.png in Resources */,
 				AE4614F61C59D39C0016BC3E /* img.jpg in Resources */,
@@ -6144,6 +6217,7 @@
 				AE673A9F1D11102F00E9A3A4 /* green_box_box.png in Resources */,
 				DAB28D581CBE4F1F004F35B1 /* terminate_active.png in Resources */,
 				AE673A4A1D1105EF00E9A3A4 /* grey_rectangle12_1.png in Resources */,
+				DA9E62171E2F5233006F4FBD /* template.png in Resources */,
 				AE38F45A1D95484D00FBEA4F /* FORMgray.png in Resources */,
 				DA93E14D1D34CB2D0063B73E /* timecardpopupcustomcell.xib in Resources */,
 				AE6325121C033A7E007AE878 /* vehicle.png in Resources */,
@@ -6229,6 +6303,7 @@
 				AEE06E461BA6C215009C17AD /* LaunchScreen.xib in Resources */,
 				AE780A161D4CB62C00208E26 /* grey_bar01.png in Resources */,
 				AE3E2B831BCE549D00FAAB31 /* checkbox1.png23.png in Resources */,
+				DA9E621D1E2F55CD006F4FBD /* 17.png in Resources */,
 				AE673A291D11039900E9A3A4 /* forwardedsx1.png in Resources */,
 				AE1994AB1D50B81C00ED23EA /* leaveTypeCollectionViewCell.xib in Resources */,
 				AE4ECE101C4CB3B8009A37D9 /* production_blacks.png in Resources */,
@@ -6511,6 +6586,7 @@
 				AE78096E1D4CB19F00208E26 /* weekcell.xib in Resources */,
 				DA3BE7021D66E949009E4EC9 /* Upload_iconll.png in Resources */,
 				AE6E50B11D74048E00033D4F /* degree2.png in Resources */,
+				DA9E622F1E2F6D92006F4FBD /* 13.png in Resources */,
 				AEB05ADB1D17E0E300BBAA62 /* Untitled.line.png in Resources */,
 				DA0B5DFE1CEDCFCF004B12DC /* monday_box.png in Resources */,
 				AE673A541D11064700E9A3A4 /* paperwork_icon1.png in Resources */,
@@ -6568,6 +6644,7 @@
 				DA0B5DFA1CEDCFCF004B12DC /* checkout.png in Resources */,
 				DAF96AC01CEB331B0069EF39 /* icon_leave.png in Resources */,
 				AE7A9AD21D55B7E700B9E28F /* gree grup.png in Resources */,
+				DA9E62011E2F434A006F4FBD /* logo.png in Resources */,
 				AEB05AFF1D17E1A600BBAA62 /* payment_detailsew.png1.png in Resources */,
 				AE3E2B581BCE538500FAAB31 /* money_bag-128.png in Resources */,
 				AEE20BD21DA3B6C200732D1B /* swing.png in Resources */,
@@ -6612,6 +6689,7 @@
 				AE780A081D4CB61700208E26 /* grey_bar.png in Resources */,
 				AE59CC5D1C40BBB000C47AF8 /* button_1 (1).png in Resources */,
 				AE4613EE1C59CF240016BC3E /* right arrow1.png in Resources */,
+				DA9E62211E2F5CAB006F4FBD /* 1.png in Resources */,
 				AE6325041C033A7E007AE878 /* createnewbank.xib in Resources */,
 				AE3E2B3B1BCE538500FAAB31 /* icon_close.png in Resources */,
 				DAC685AC1CD9ECBE00EA26B1 /* icon_new.png in Resources */,
@@ -6630,6 +6708,7 @@
 				AE609C2F1D1289250000A344 /* new_box.png in Resources */,
 				AE673A401D11045700E9A3A4 /* transparent111.png in Resources */,
 				AE4A2C531C04466A0023B0F7 /* expenseCategoriesCollectionViewCell.xib in Resources */,
+				DA9E620D1E2F46D4006F4FBD /* userreg.png in Resources */,
 				AE54DE3C1DC33F44009894DF /* cartTableCellTableViewCell.xib in Resources */,
 				AE46147B1C59D1F50016BC3E /* component_white.png in Resources */,
 				AE4D41D51BFF277F0075CFAE /* circle_3.png in Resources */,
@@ -6690,6 +6769,7 @@
 				AE609C121D12781B0000A344 /* leaveFormView.xib in Resources */,
 				AE4ECE0B1C4CB3B8009A37D9 /* close_button.png in Resources */,
 				AE4CBC9E1D7EA66B00AACDBA /* 1234_orange.jpg in Resources */,
+				DA9E622D1E2F62AB006F4FBD /* 11df.png in Resources */,
 				AE6795BF1D59A8B20008E3C7 /* documentViewCollectionViewCell.xib in Resources */,
 				AE4C2AF51D924C4600872B79 /* payment_details.png.png in Resources */,
 				AE7809BB1D4CB56300208E26 /* white_rectangle.png in Resources */,
@@ -6719,6 +6799,7 @@
 				DACD16611D670F00002CC395 /* select (1tggt).png in Resources */,
 				AE673A811D110EF500E9A3A4 /* Generate Documents_Icon.png in Resources */,
 				DA6AD9561D2BC2FD00870B0C /* dept_blue.png in Resources */,
+				DA9E62271E2F5DCB006F4FBD /* 5.png in Resources */,
 				DA0B5E001CEDCFCF004B12DC /* total_working_hours_box.png in Resources */,
 				AE46147D1C59D1FC0016BC3E /* department_white.png in Resources */,
 				DAFB22501C804F75002F55CF /* editingdesignationcellview.xib in Resources */,
@@ -6784,6 +6865,7 @@
 				DAF96AA31CEB331B0069EF39 /* icon_projects.png in Resources */,
 				AE63D6161C63126D00D0638D /* strips.png in Resources */,
 				AE7809B91D4CB56300208E26 /* blue_button.png in Resources */,
+				DA9E62051E2F44D3006F4FBD /* 21.png in Resources */,
 				AE44EEA51DA37A0600B715F9 /* shiftIndividualScreenView.xib in Resources */,
 				AE609C3D1D12895E0000A344 /* leave_details.png in Resources */,
 				AE4614051C59CF240016BC3E /* icon_attendance_default1.png in Resources */,
@@ -6899,6 +6981,7 @@
 				DA0B5DEF1CEDCFCF004B12DC /* icon_date.png in Resources */,
 				DA0B5DF51CEDCFCF004B12DC /* above_close.png in Resources */,
 				AE3E2B751BCE538500FAAB31 /* inventory_iconwf.png in Resources */,
+				DA9E62131E2F503A006F4FBD /* linees.png in Resources */,
 				AE673A3C1D11045700E9A3A4 /* reverted11.png in Resources */,
 				AE3E2B511BCE538500FAAB31 /* office_selected.png in Resources */,
 				AE4012A01D9A5E3E00A28157 /* download (1y).png in Resources */,
@@ -6934,6 +7017,7 @@
 				AE4614FE1C59D3C50016BC3E /* white_box_tickmark.png in Resources */,
 				AE7A9AEA1D55C2BF00B9E28F /* cellgreen1.png in Resources */,
 				AE7809BA1D4CB56300208E26 /* doc_icon.png in Resources */,
+				DA9E62071E2F45BF006F4FBD /* url.png in Resources */,
 				AE5F5B5F1D54B1170046C537 /* authorizationrfe444.png in Resources */,
 				AEC122921D51C758006FD8B8 /* radeem_icon_blue (iPad).png in Resources */,
 				AE5BD3E31DC48F930075A670 /* rename.png in Resources */,
@@ -7071,6 +7155,7 @@
 				AE7809EF1D4CB5B700208E26 /* new.png in Resources */,
 				AE951EFE1C3149DC00103B10 /* currency - sel.png in Resources */,
 				AE673ACC1D112E6700E9A3A4 /* overdue.png in Resources */,
+				DA9E62161E2F5233006F4FBD /* stamp.png in Resources */,
 				AE4ECE121C4CB3B8009A37D9 /* check box.png in Resources */,
 				AE673A8D1D110F6300E9A3A4 /* Recent Doc_icon.png in Resources */,
 				AEF657631CE6EAE300E0804E /* eye_red.png in Resources */,
@@ -7085,6 +7170,7 @@
 				DAFBFA921CD1D06300561DE0 /* alterable.png in Resources */,
 				AE63D6201C63143D00D0638D /* office.png in Resources */,
 				AEEEB8AE1C1956BB00D39E7B /* gross_annual payable_box.png in Resources */,
+				DA9E62091E2F45C9006F4FBD /* status.png in Resources */,
 				DABFAE071CD8570100071D6B /* strip.png in Resources */,
 				AE4614971C59D27B0016BC3E /* taskbariconnewnew.png in Resources */,
 				AE7A9AD41D55B81000B9E28F /* cellgreen2.png in Resources */,
@@ -7133,6 +7219,7 @@
 				DA05B86A1CD32896008FD147 /* documentInnerView.xib in Resources */,
 				AE673AF51D11300A00E9A3A4 /* check box_white2.png in Resources */,
 				DA5047CC1CD4C36E0016BCDB /* strip_bg.png in Resources */,
+				DA9E620F1E2F4CC5006F4FBD /* 18.png in Resources */,
 				AE3E02D11BF2F6EA0017039B /* loantconditionsmainview.xib in Resources */,
 				DA0B5DE51CEDCFCF004B12DC /* timecardindividualpopupview.xib in Resources */,
 				DA0B5DE81CEDCFCF004B12DC /* holidayyyy.jpg in Resources */,
@@ -7157,6 +7244,7 @@
 				AE4C2ACD1D924B6900872B79 /* reason_01_newLoan.png in Resources */,
 				AE5B48671C4DFFEC00AF548F /* specific_day_grey.png in Resources */,
 				AE4614301C59D0330016BC3E /* in_out_grey.png in Resources */,
+				DA9E622B1E2F611A006F4FBD /* 9.png in Resources */,
 				DA1CF7FA1CCE12F900BD0C4A /* icon_profile.png in Resources */,
 				DA0B5DF21CEDCFCF004B12DC /* ouline_box.png in Resources */,
 				DA0779C31CDB176100B60C78 /* paidLeavePopupView.xib in Resources */,

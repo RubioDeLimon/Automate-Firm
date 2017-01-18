@@ -73,8 +73,8 @@
                   symbolName = "__50-[borrowingSettingsViewClass viewAllLoanResponse:]_block_invoke"
                   moduleName = "Automate Firm"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Volumes/work/AF/ios/AF_iPad/Automate%20Firm/Automate%20Firm/borrowingSettingsViewClass.m"
-                  timestampString = "501071417.564391"
+                  urlString = "file:///Users/ambuvamadevan/Desktop/Automate-FirmnewLatest/Automate%20Firm/borrowingSettingsViewClass.m"
+                  timestampString = "506432107.101031"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "515"
@@ -88,8 +88,8 @@
                   symbolName = "__copy_helper_block_.375"
                   moduleName = "Automate Firm"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Volumes/work/AF/ios/AF_iPad/Automate%20Firm/Automate%20Firm/borrowingSettingsViewClass.m"
-                  timestampString = "501071417.567605"
+                  urlString = "file:///Users/ambuvamadevan/Desktop/Automate-FirmnewLatest/Automate%20Firm/borrowingSettingsViewClass.m"
+                  timestampString = "506432107.103215"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "515"
@@ -103,8 +103,8 @@
                   symbolName = "__destroy_helper_block_.376"
                   moduleName = "Automate Firm"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Volumes/work/AF/ios/AF_iPad/Automate%20Firm/Automate%20Firm/borrowingSettingsViewClass.m"
-                  timestampString = "501071417.571261"
+                  urlString = "file:///Users/ambuvamadevan/Desktop/Automate-FirmnewLatest/Automate%20Firm/borrowingSettingsViewClass.m"
+                  timestampString = "506432107.105427"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "515"
@@ -313,11 +313,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "501054537.315556"
+            timestampString = "506329085.762652"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "2995"
-            endingLineNumber = "2995"
+            startingLineNumber = "2984"
+            endingLineNumber = "2984"
             landmarkName = "-addNewEmployeeOfficeDisplayDetails:"
             landmarkType = "7">
          </BreakpointContent>
@@ -329,11 +329,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "501054537.315556"
+            timestampString = "506330041.520779"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "6367"
-            endingLineNumber = "6367"
+            startingLineNumber = "6358"
+            endingLineNumber = "6358"
             landmarkName = "-createNewAdvanceRule:instalment:visaDuration:eligibleMonths:pendingLoanAmount:nextApprovedLeave:leavesTypeAbrvation:lastwrkingDay:radioButton1:radioButton2:radioButton3:ruleId:tileId:selecetdDesig:enableStatus:abbrevationText:designationList:officeId:"
             landmarkType = "7">
          </BreakpointContent>
@@ -393,11 +393,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "501054537.315556"
+            timestampString = "506329085.762652"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "3086"
-            endingLineNumber = "3086"
+            startingLineNumber = "3075"
+            endingLineNumber = "3075"
             landmarkName = "-uploadEmpImage::"
             landmarkType = "7">
          </BreakpointContent>
@@ -409,74 +409,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "501054537.315556"
+            timestampString = "506329085.762652"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "3136"
-            endingLineNumber = "3136"
-            landmarkName = "-addNewEmployeeSave:"
-            landmarkType = "7">
-            <Locations>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "__38-[connectionclass addNewEmployeeSave:]_block_invoke"
-                  moduleName = "Automate Firm"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Volumes/work/AF/ios/AF_iPad/Automate%20Firm/Automate%20Firm/connectionclass.m"
-                  timestampString = "501071417.647478"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "3136"
-                  endingLineNumber = "3136"
-                  offsetFromSymbolStart = "755">
-               </Location>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "__copy_helper_block_.801"
-                  moduleName = "Automate Firm"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Volumes/work/AF/ios/AF_iPad/Automate%20Firm/Automate%20Firm/connectionclass.m"
-                  timestampString = "501071417.649557"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "3136"
-                  endingLineNumber = "3136"
-                  offsetFromSymbolStart = "51">
-               </Location>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "__destroy_helper_block_.802"
-                  moduleName = "Automate Firm"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Volumes/work/AF/ios/AF_iPad/Automate%20Firm/Automate%20Firm/connectionclass.m"
-                  timestampString = "501071417.651728"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "3136"
-                  endingLineNumber = "3136"
-                  offsetFromSymbolStart = "29">
-               </Location>
-            </Locations>
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "Automate Firm/connectionclass.m"
-            timestampString = "501054537.315556"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "3163"
-            endingLineNumber = "3163"
+            startingLineNumber = "3125"
+            endingLineNumber = "3125"
             landmarkName = "-addNewEmployeeSave:"
             landmarkType = "7">
          </BreakpointContent>
@@ -488,11 +425,27 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "501054537.315556"
+            timestampString = "506329085.762652"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "2690"
-            endingLineNumber = "2690"
+            startingLineNumber = "3152"
+            endingLineNumber = "3152"
+            landmarkName = "-addNewEmployeeSave:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Automate Firm/connectionclass.m"
+            timestampString = "506329085.762652"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "2679"
+            endingLineNumber = "2679"
             landmarkName = "-deleteCategory:"
             landmarkType = "7">
          </BreakpointContent>
@@ -504,11 +457,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "501054537.315556"
+            timestampString = "506329085.762652"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "2719"
-            endingLineNumber = "2719"
+            startingLineNumber = "2708"
+            endingLineNumber = "2708"
             landmarkName = "-moveEmployeesToAnotherCategory:"
             landmarkType = "7">
          </BreakpointContent>
@@ -520,11 +473,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "501054537.315556"
+            timestampString = "506329085.762652"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "2761"
-            endingLineNumber = "2761"
+            startingLineNumber = "2750"
+            endingLineNumber = "2750"
             landmarkName = "-uploadNewImage::"
             landmarkType = "7">
             <Locations>
@@ -532,46 +485,31 @@
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
+                  symbolName = "-[connectionclass uploadNewImage::]"
+                  moduleName = "Automate Firm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ambuvamadevan/Desktop/Automate-FirmnewLatest/Automate%20Firm/connectionclass.m"
+                  timestampString = "506432107.212779"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2750"
+                  endingLineNumber = "2750"
+                  offsetFromSymbolStart = "84">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
                   symbolName = "__35-[connectionclass uploadNewImage::]_block_invoke"
                   moduleName = "Automate Firm"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Volumes/work/AF/ios/AF_iPad/Automate%20Firm/Automate%20Firm/connectionclass.m"
-                  timestampString = "501071417.669201"
+                  urlString = "file:///Users/ambuvamadevan/Desktop/Automate-FirmnewLatest/Automate%20Firm/connectionclass.m"
+                  timestampString = "506432107.215516"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "2761"
-                  endingLineNumber = "2761"
-                  offsetFromSymbolStart = "1373">
-               </Location>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "__copy_helper_block_.691"
-                  moduleName = "Automate Firm"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Volumes/work/AF/ios/AF_iPad/Automate%20Firm/Automate%20Firm/connectionclass.m"
-                  timestampString = "501071417.671432"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "2761"
-                  endingLineNumber = "2761"
-                  offsetFromSymbolStart = "147">
-               </Location>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "__destroy_helper_block_.692"
-                  moduleName = "Automate Firm"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Volumes/work/AF/ios/AF_iPad/Automate%20Firm/Automate%20Firm/connectionclass.m"
-                  timestampString = "501071417.674166"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "2761"
-                  endingLineNumber = "2761"
-                  offsetFromSymbolStart = "79">
+                  startingLineNumber = "2750"
+                  endingLineNumber = "2750"
+                  offsetFromSymbolStart = "15">
                </Location>
             </Locations>
          </BreakpointContent>
@@ -583,11 +521,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "501054537.315556"
+            timestampString = "506329085.762652"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "2910"
-            endingLineNumber = "2910"
+            startingLineNumber = "2899"
+            endingLineNumber = "2899"
             landmarkName = "-updateStorefunction:officeId:storeid:outletType:abbrev:subtittle:sector:regid:currency:financialyear:emailid:telephonenumber:fax:website:building:block:street:country:state:city:postcode:landmark:bank_listarray:printer_listarray:otherdetails_array:"
             landmarkType = "7">
          </BreakpointContent>
@@ -599,11 +537,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "501054537.315556"
+            timestampString = "506329085.762652"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "2578"
-            endingLineNumber = "2578"
+            startingLineNumber = "2567"
+            endingLineNumber = "2567"
             landmarkName = "-moveEmployeesToAnotherDepartment:"
             landmarkType = "7">
          </BreakpointContent>
@@ -615,11 +553,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "501054537.315556"
+            timestampString = "506329085.762652"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "2531"
-            endingLineNumber = "2531"
+            startingLineNumber = "2520"
+            endingLineNumber = "2520"
             landmarkName = "-deleteDepartment:"
             landmarkType = "7">
          </BreakpointContent>
@@ -759,27 +697,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "501054537.315556"
+            timestampString = "506330041.520779"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "9339"
-            endingLineNumber = "9339"
-            landmarkName = "-listingCategoriesExpenseReimbursement:"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "Automate Firm/connectionclass.m"
-            timestampString = "501054537.315556"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "9305"
-            endingLineNumber = "9305"
+            startingLineNumber = "9330"
+            endingLineNumber = "9330"
             landmarkName = "-listingExpenseReimbursementDetails::"
             landmarkType = "7">
          </BreakpointContent>
@@ -791,11 +713,27 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "501054537.315556"
+            timestampString = "506330041.520779"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "9361"
-            endingLineNumber = "9361"
+            startingLineNumber = "9296"
+            endingLineNumber = "9296"
+            landmarkName = "-employeeListingAccordingToType::"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Automate Firm/connectionclass.m"
+            timestampString = "506330041.520779"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "9352"
+            endingLineNumber = "9352"
             landmarkName = "-listingCategoriesExpenseReimbursement:"
             landmarkType = "7">
          </BreakpointContent>
@@ -807,12 +745,12 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "501054537.315556"
+            timestampString = "506330041.520779"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "9376"
-            endingLineNumber = "9376"
-            landmarkName = "-listingAllEmployeesForFine:"
+            startingLineNumber = "9367"
+            endingLineNumber = "9367"
+            landmarkName = "-listingCategoriesExpenseReimbursement:"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
@@ -823,27 +761,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "501054537.315556"
+            timestampString = "506330041.520779"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "9907"
-            endingLineNumber = "9907"
-            landmarkName = "-testService:"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "Automate Firm/connectionclass.m"
-            timestampString = "501054537.315556"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "9867"
-            endingLineNumber = "9867"
+            startingLineNumber = "9898"
+            endingLineNumber = "9898"
             landmarkName = "-customfolderAddnewdocuments:documentsdict:"
             landmarkType = "7">
          </BreakpointContent>
@@ -855,11 +777,59 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "501054537.315556"
+            timestampString = "506330041.520779"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "9887"
-            endingLineNumber = "9887"
+            startingLineNumber = "9858"
+            endingLineNumber = "9858"
+            landmarkName = "-customfolderAddnewdocuments:documentsdict:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[connectionclass customfolderAddnewdocuments:documentsdict:]"
+                  moduleName = "Automate Firm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ambuvamadevan/Desktop/Automate-FirmnewLatest/Automate%20Firm/connectionclass.m"
+                  timestampString = "506432107.284557"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "9860"
+                  endingLineNumber = "9860"
+                  offsetFromSymbolStart = "582">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__61-[connectionclass customfolderAddnewdocuments:documentsdict:]_block_invoke"
+                  moduleName = "Automate Firm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ambuvamadevan/Desktop/Automate-FirmnewLatest/Automate%20Firm/connectionclass.m"
+                  timestampString = "506432107.28723"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "9863"
+                  endingLineNumber = "9863"
+                  offsetFromSymbolStart = "109">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Automate Firm/connectionclass.m"
+            timestampString = "506330041.520779"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "9878"
+            endingLineNumber = "9878"
             landmarkName = "-customfolderAddnewdocuments:documentsdict:"
             landmarkType = "7">
          </BreakpointContent>
@@ -871,11 +841,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Automate Firm/connectionclass.m"
-            timestampString = "501054537.315556"
+            timestampString = "506330041.520779"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "10077"
-            endingLineNumber = "10077"
+            startingLineNumber = "10068"
+            endingLineNumber = "10068"
             landmarkName = "-filteringEmployeeDocumentsInDocumentFrontscreen:storearray:departArray:catearray:designation:officeid:"
             landmarkType = "7">
          </BreakpointContent>
@@ -909,6 +879,54 @@
             startingLineNumber = "149"
             endingLineNumber = "149"
             landmarkName = "-textField:shouldChangeCharactersInRange:replacementString:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Automate Firm/connectionclass.m"
+            timestampString = "506330041.520779"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "3814"
+            endingLineNumber = "3814"
+            landmarkName = "-viewOfficeWeekRule:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Automate Firm/connectionclass.m"
+            timestampString = "506330041.520779"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "3834"
+            endingLineNumber = "3834"
+            landmarkName = "-viewOfficeWeekRule:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Automate Firm/attendancesettingsviewclass.m"
+            timestampString = "506330396.758869"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "-awakeFromNib"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>

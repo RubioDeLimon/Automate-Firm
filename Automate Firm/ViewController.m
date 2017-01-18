@@ -61,7 +61,7 @@
         NSString * userString = [self.userNameField.text stringByReplacingOccurrencesOfString:@" " withString:@""];
         NSString * pwdstring = [self.paswrdText.text stringByReplacingOccurrencesOfString:@" " withString:@""];
         
-        
+         [[NSUserDefaults standardUserDefaults]setObject:@"1" forKey:@"selectedofficeId"];
        /// [self.myconnection LoginService:userString paswrd:pwdstring officeid:self.officeidString];
         
         [self performSegueWithIdentifier:@"loggedUser" sender:nil];

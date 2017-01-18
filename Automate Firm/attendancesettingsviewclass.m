@@ -18,7 +18,11 @@
     
     self.myconnection=[[connectionclass alloc] init];
     self.myconnection.mydelegate=self;
+    
+     NSLog(@"%@",[[NSUserDefaults standardUserDefaults]objectForKey:@"selectedofficeId"]);
     [self.myconnection viewOfficeWeekRule:[[NSUserDefaults standardUserDefaults]objectForKey:@"selectedofficeId"]];
+    
+   
     
     appObj=(AppDelegate *)[[UIApplication sharedApplication]delegate];
 

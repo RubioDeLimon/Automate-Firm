@@ -9,12 +9,7 @@
 #import "connectionclass.h"
 #import "settingsViewController.h"
 
-
 #define serverUrl
-
-
-
-
 
 
 NSString *const subDomainMainURL = @"http://automatefirm.com/automate_new/";
@@ -145,10 +140,6 @@ NSString *const subdomainURL = @"http://192.168.1.22/af1.1/";
 #define deleteHolidayurl @"http://automatefirm.com/automate_new/index.php/holiday_rule/del_holiday_rule?"
 
 
-
-
-
-
 //old
 
 //#define holidayWorkingPremise @"http://192.168.1.45/work/automate_new1/index.php/holiday_response/get_office?"
@@ -169,6 +160,7 @@ NSString *const subdomainURL = @"http://192.168.1.22/af1.1/";
 
 //---------------------------------Include Designation------------------(Excpet Tile Class)
 //#define designationURL @"settings/week_rule_list/get_include_designation?"
+
 #define designationURL @"settings/week_rule_list/get_include_designation?"
 
 
@@ -335,11 +327,9 @@ NSString *const subdomainURL = @"http://192.168.1.22/af1.1/";
 #define viewPortalURL @"settings/portal/get_details/"
 
 
-
 //<<<-------------------------------------Employeeidcard--------------------------------->>>
 
 #define employeesidcardUrl @"http://automatefirm.com/automate_new/index.php/staffing/employee_id/get_employee_details/"
-
 
 
 //<<<---------------------------------Employeeindividualviewservice--------------------------->>>
@@ -700,8 +690,7 @@ NSString *const subdomainURL = @"http://192.168.1.22/af1.1/";
                 [self.mydelegate showalerviewcontroller:@"No Internet Connection"];
                 
             }
-            
-            
+        
         }
         
         else
@@ -3814,7 +3803,9 @@ dispatch_async(dispatch_get_main_queue(), ^{
     [postDataTask resume];
 }
 
+
 //View Created Rules Under office
+
 
 -(void)viewOfficeWeekRule:(NSString *)oficeid
 {
@@ -3876,7 +3867,6 @@ dispatch_async(dispatch_get_main_queue(), ^{
                 [self.mydelegate showalerviewcontroller:@"No Internet Connection"];
                 
             }
-            
             
         }
         
