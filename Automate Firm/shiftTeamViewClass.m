@@ -19,12 +19,12 @@
 */
 -(void)awakeFromNib
 {
-    self.teamFirstAray=[[NSMutableArray alloc]initWithObjects:@"photoSift1.png", @"photoSift1.png", @"photoSift1.png", @"photoSift1.png", @"photoSift1.png",@"photoSift1.png", nil];
-    self.teamsecondAray=[[NSMutableArray alloc]initWithObjects:@"photoSift1.png",nil];
-    self.teamThirdAray=[[NSMutableArray alloc]initWithObjects:@"photoSift1.png",@"photoSift1.png",@"photoSift1.png",nil];
-    self.teamFourthAray=[[NSMutableArray alloc]initWithObjects:@"photoSift1.png",@"photoSift1.png",@"photoSift1.png",nil];
-    self.teamFifthAray=[[NSMutableArray alloc]initWithObjects:@"photoSift1.png",@"photoSift1.png",@"photoSift1.png",nil];
-    self.teamSixthAray=[[NSMutableArray alloc]initWithObjects:@"photoSift1.png",@"photoSift1.png",@"photoSift1.png",nil];
+    self.teamFirstArray=[[NSMutableArray alloc]initWithObjects:@"photoSift1.png", @"photoSift1.png", @"photoSift1.png", @"photoSift1.png", @"photoSift1.png",@"photoSift1.png", nil];
+    self.teamsecondArray=[[NSMutableArray alloc]initWithObjects:@"photoSift1.png",nil];
+    self.teamThirdArray=[[NSMutableArray alloc]initWithObjects:@"photoSift1.png",@"photoSift1.png",@"photoSift1.png",nil];
+    self.teamFourthArray=[[NSMutableArray alloc]initWithObjects:@"photoSift1.png",@"photoSift1.png",@"photoSift1.png",nil];
+    self.teamFifthArray=[[NSMutableArray alloc]initWithObjects:@"photoSift1.png",@"photoSift1.png",@"photoSift1.png",nil];
+    self.teamSixthArray=[[NSMutableArray alloc]initWithObjects:@"photoSift1.png",@"photoSift1.png",@"photoSift1.png",nil];
    
     [self.teamcollcetion registerNib:[UINib nibWithNibName:@"CollectionViewCellForTeamShift" bundle:nil] forCellWithReuseIdentifier:@"teamCell"];
     [self.teamcollcetion1 registerNib:[UINib nibWithNibName:@"CollectionViewCellForTeamShift" bundle:nil] forCellWithReuseIdentifier:@"teamCell"];
@@ -43,27 +43,27 @@
 {
     if(collectionView==_teamcollcetion)
     {
-        return [self.teamFirstAray count];
+        return [self.teamFirstArray count];
     }
     else if (collectionView==_teamcollcetion1){
         
-        return [self.teamsecondAray count];
+        return [self.teamsecondArray count];
     }
     else if (collectionView==_teamcollcetion2){
         
-        return [self.teamThirdAray count];
+        return [self.teamThirdArray count];
     }
     else if (collectionView==_teamcollcetion3){
         
-        return [self.teamFourthAray count];
+        return [self.teamFourthArray count];
     }
     else if (collectionView==_teamcollcetion4){
         
-        return [self.teamFifthAray count];
+        return [self.teamFifthArray count];
     }
     else
     {
-        return [self.teamSixthAray count];
+        return [self.teamSixthArray count];
     }
 }
 
@@ -148,24 +148,24 @@
         if(CGRectContainsPoint(_teamcollcetion1.frame, [panRecognizer locationInView:self]))
         {
             if (storedcollectionTag==1) {
-                [self reloadFunction:_teamFirstAray destAray:_teamsecondAray indexpath:indexPathDestCell];
+                [self reloadFunction:_teamFirstArray destArray:_teamsecondArray indexpath:indexPathDestCell];
             }
             
             if (storedcollectionTag==3) {
-                [self reloadFunction:_teamThirdAray destAray:_teamsecondAray indexpath:indexPathDestCell];
+                [self reloadFunction:_teamThirdArray destArray:_teamsecondArray indexpath:indexPathDestCell];
 
             }
             if (storedcollectionTag==4) {
-                [self reloadFunction:_teamFourthAray destAray:_teamsecondAray indexpath:indexPathDestCell];
+                [self reloadFunction:_teamFourthArray destArray:_teamsecondArray indexpath:indexPathDestCell];
                 
             }
             if (storedcollectionTag==5) {
-                [self reloadFunction:_teamFifthAray destAray:_teamsecondAray indexpath:indexPathDestCell];
+                [self reloadFunction:_teamFifthArray destArray:_teamsecondArray indexpath:indexPathDestCell];
 
                 
             }
             if (storedcollectionTag==6) {
-                [self reloadFunction:_teamSixthAray destAray:_teamsecondAray indexpath:indexPathDestCell];
+                [self reloadFunction:_teamSixthArray destArray:_teamsecondArray indexpath:indexPathDestCell];
 
             }
           
@@ -175,24 +175,24 @@
         {
            
             if (storedcollectionTag==2) {
-                [self reloadFunction:_teamsecondAray destAray:_teamFirstAray indexpath:indexPathDestCell];
+                [self reloadFunction:_teamsecondArray destArray:_teamFirstArray indexpath:indexPathDestCell];
             }
             
             if (storedcollectionTag==3) {
-                [self reloadFunction:_teamThirdAray destAray:_teamFirstAray indexpath:indexPathDestCell];
+                [self reloadFunction:_teamThirdArray destArray:_teamFirstArray indexpath:indexPathDestCell];
                 
             }
             if (storedcollectionTag==4) {
-                [self reloadFunction:_teamFourthAray destAray:_teamFirstAray indexpath:indexPathDestCell];
+                [self reloadFunction:_teamFourthArray destArray:_teamFirstArray indexpath:indexPathDestCell];
                 
             }
             if (storedcollectionTag==5) {
-                [self reloadFunction:_teamFifthAray destAray:_teamFirstAray indexpath:indexPathDestCell];
+                [self reloadFunction:_teamFifthArray destArray:_teamFirstArray indexpath:indexPathDestCell];
                 
                 
             }
             if (storedcollectionTag==6) {
-                [self reloadFunction:_teamSixthAray destAray:_teamFirstAray indexpath:indexPathDestCell];
+                [self reloadFunction:_teamSixthArray destArray:_teamFirstArray indexpath:indexPathDestCell];
                 
             }
 
@@ -202,24 +202,24 @@
         {
             
             if (storedcollectionTag==2) {
-                [self reloadFunction:_teamsecondAray destAray:_teamThirdAray indexpath:indexPathDestCell];
+                [self reloadFunction:_teamsecondArray destArray:_teamThirdArray indexpath:indexPathDestCell];
             }
             
             if (storedcollectionTag==1) {
-                [self reloadFunction:_teamFirstAray destAray:_teamThirdAray indexpath:indexPathDestCell];
+                [self reloadFunction:_teamFirstArray destArray:_teamThirdArray indexpath:indexPathDestCell];
                 
             }
             if (storedcollectionTag==4) {
-                [self reloadFunction:_teamFourthAray destAray:_teamThirdAray indexpath:indexPathDestCell];
+                [self reloadFunction:_teamFourthArray destArray:_teamThirdArray indexpath:indexPathDestCell];
                 
             }
             if (storedcollectionTag==5) {
-                [self reloadFunction:_teamFifthAray destAray:_teamThirdAray indexpath:indexPathDestCell];
+                [self reloadFunction:_teamFifthArray destArray:_teamThirdArray indexpath:indexPathDestCell];
                 
                 
             }
             if (storedcollectionTag==6) {
-                [self reloadFunction:_teamSixthAray destAray:_teamFirstAray indexpath:indexPathDestCell];
+                [self reloadFunction:_teamSixthArray destArray:_teamFirstArray indexpath:indexPathDestCell];
                 
             }
             
@@ -228,24 +228,24 @@
         {
             
             if (storedcollectionTag==2) {
-                [self reloadFunction:_teamsecondAray destAray:_teamFourthAray indexpath:indexPathDestCell];
+                [self reloadFunction:_teamsecondArray destArray:_teamFourthArray indexpath:indexPathDestCell];
             }
             
             if (storedcollectionTag==1) {
-                [self reloadFunction:_teamFirstAray destAray:_teamFourthAray indexpath:indexPathDestCell];
+                [self reloadFunction:_teamFirstArray destArray:_teamFourthArray indexpath:indexPathDestCell];
                 
             }
             if (storedcollectionTag==3) {
-                [self reloadFunction:_teamThirdAray destAray:_teamFourthAray indexpath:indexPathDestCell];
+                [self reloadFunction:_teamThirdArray destArray:_teamFourthArray indexpath:indexPathDestCell];
                 
             }
             if (storedcollectionTag==5) {
-                [self reloadFunction:_teamFifthAray destAray:_teamFourthAray indexpath:indexPathDestCell];
+                [self reloadFunction:_teamFifthArray destArray:_teamFourthArray indexpath:indexPathDestCell];
                 
                 
             }
             if (storedcollectionTag==6) {
-                [self reloadFunction:_teamSixthAray destAray:_teamFourthAray indexpath:indexPathDestCell];
+                [self reloadFunction:_teamSixthArray destArray:_teamFourthArray indexpath:indexPathDestCell];
                 
             }
             
@@ -254,24 +254,24 @@
         {
             
             if (storedcollectionTag==2) {
-                [self reloadFunction:_teamsecondAray destAray:_teamFifthAray indexpath:indexPathDestCell];
+                [self reloadFunction:_teamsecondArray destArray:_teamFifthArray indexpath:indexPathDestCell];
             }
             
             if (storedcollectionTag==1) {
-                [self reloadFunction:_teamFirstAray destAray:_teamFifthAray indexpath:indexPathDestCell];
+                [self reloadFunction:_teamFirstArray destArray:_teamFifthArray indexpath:indexPathDestCell];
                 
             }
             if (storedcollectionTag==3) {
-                [self reloadFunction:_teamThirdAray destAray:_teamFifthAray indexpath:indexPathDestCell];
+                [self reloadFunction:_teamThirdArray destArray:_teamFifthArray indexpath:indexPathDestCell];
                 
             }
             if (storedcollectionTag==4) {
-                [self reloadFunction:_teamFourthAray destAray:_teamFifthAray indexpath:indexPathDestCell];
+                [self reloadFunction:_teamFourthArray destArray:_teamFifthArray indexpath:indexPathDestCell];
                 
                 
             }
             if (storedcollectionTag==6) {
-                [self reloadFunction:_teamSixthAray destAray:_teamFifthAray indexpath:indexPathDestCell];
+                [self reloadFunction:_teamSixthArray destArray:_teamFifthArray indexpath:indexPathDestCell];
                 
             }
             
@@ -280,24 +280,24 @@
         {
             
             if (storedcollectionTag==2) {
-                [self reloadFunction:_teamsecondAray destAray:_teamSixthAray indexpath:indexPathDestCell];
+                [self reloadFunction:_teamsecondArray destArray:_teamSixthArray indexpath:indexPathDestCell];
             }
             
             if (storedcollectionTag==1) {
-                [self reloadFunction:_teamFirstAray destAray:_teamSixthAray indexpath:indexPathDestCell];
+                [self reloadFunction:_teamFirstArray destArray:_teamSixthArray indexpath:indexPathDestCell];
                 
             }
             if (storedcollectionTag==3) {
-                [self reloadFunction:_teamThirdAray destAray:_teamSixthAray indexpath:indexPathDestCell];
+                [self reloadFunction:_teamThirdArray destArray:_teamSixthArray indexpath:indexPathDestCell];
                 
             }
             if (storedcollectionTag==4) {
-                [self reloadFunction:_teamFourthAray destAray:_teamSixthAray indexpath:indexPathDestCell];
+                [self reloadFunction:_teamFourthArray destArray:_teamSixthArray indexpath:indexPathDestCell];
                 
                 
             }
             if (storedcollectionTag==5) {
-                [self reloadFunction:_teamFifthAray destAray:_teamSixthAray indexpath:indexPathDestCell];
+                [self reloadFunction:_teamFifthArray destArray:_teamSixthArray indexpath:indexPathDestCell];
                 
             }
             
@@ -335,7 +335,7 @@
 
 //cell reloadFunction
 
--(void)reloadFunction:(NSMutableArray *)sourceAray destAray:(NSMutableArray *)destArray indexpath:(NSIndexPath *)destPath
+-(void)reloadFunction:(NSMutableArray *)sourceArray destArray:(NSMutableArray *)destArray indexpath:(NSIndexPath *)destPath
 {
     [sourceAray removeObjectAtIndex:destPath.row];
     [destArray insertObject:@"photoSift1.png" atIndex:0];
